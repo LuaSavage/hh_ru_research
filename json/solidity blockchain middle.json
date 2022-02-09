@@ -1,0 +1,2484 @@
+[
+    {
+        "response_letter_required": false,
+        "show_contact": true,
+        "name": "Middle Blockchain / Back-end Developer",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 2,
+            "name": "Санкт-Петербург",
+            "path": ".113.231.2."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 758339,
+            "disabled": false,
+            "city": "Санкт-Петербург",
+            "street": "проспект Непокорённых",
+            "building": "49",
+            "display_name": "Санкт-Петербург, проспект Непокорённых, 49",
+            "map_data": "{\"points\":{\"center\":{\"lat\":59.99414881990701,\"lng\":30.388471789024376,\"zoom\":18},\"marker\":{\"lat\":59.99428855298423,\"lng\":30.387693948408536}}}",
+            "marker": {
+                "lat": 59.99428855298423,
+                "lng": 30.387693948408536
+            },
+            "manager": {
+                "id": 2690982
+            }
+        },
+        "metallic": "standard_plus",
+        "creation_site": "spb.hh.ru",
+        "creation_site_id": 7,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1644241115,
+            "$": "2022-02-07T16:38:35.982+03:00"
+        },
+        "creation_time": "2022-01-26T15:43:19.349+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 106771985,
+            "manager_id": 7290161,
+            "user_id": 84592349,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": false,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/51796223",
+            "mobile": "https://m.hh.ru/vacancy/51796223"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Solidity (Ethereum, Binance Smart Chain, Arbitrum, Milkomeda, …). Cardano / Plutus. Vue, React. Опыт от 1,5 лет на позиции blockchain / back...",
+            "resp": "Технологий распределенных реестров и блокчейна. Искусственного интеллекта и машинного обучения. Логистики и моделирования испытаний транспортных средств. Прикладной механики. ",
+            "cond": "Распределенная команда, нас 60 человек в разных городах. Проектные команды, agile. Гибкий график, возможна полностью удаленная занятость или работа в...",
+            "skill": null,
+            "desc": null
+        },
+        "id": 51796223,
+        "url": "https://hh.ru/vacancy/51796223",
+        "salary": null,
+        "contacts": {
+            "email": "maria.koteneva@crplab.ru",
+            "fio": "Котенёва Мария",
+            "phones": {}
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 2148666,
+            "name": "Центр Реактивного Программирования",
+            "visible_name": "Центр Реактивного Программирования",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/899572.jpg"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/4038974.jpeg"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/4038975.jpeg"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/4038975.jpeg"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/4038976.jpeg"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/4038976.jpeg"
+                    }
+                ]
+            },
+            "employer_organization_form_id": 0
+        },
+        "published_at": "2022-02-07T15:43:19.349+03:00",
+        "schedule": {
+            "id": "FLEXIBLE"
+        },
+        "counters": {
+            "responses": 5
+        },
+        "key_skills": null,
+        "description": "Центр Реактивного Программирования занимается занимается разработкойсобственных и партнерских продуктов в наукоемких областях:  * технологий распределенных реестров и блокчейна;  * искусственного интеллекта и машинного обучения;  * логистики и моделирования испытаний транспортных средств;  * прикладной механики;  * кибербезопасности и др.Мы ищем разработчика blockchain / back-end в проект Blueshift. Этодецентрализованная финансовая (DeFi) платформа для управления цифровымиактивами на базе blockchain. Наш проект - это:  * передовая идея, подкрепленная математическим моделированием, мы двигаем технологию вперед, а не повторяем чужие решения,  * опытная и высоко мотивированная команда,  * сильные партнеры и инвесторы.**Технологический стек:**Blockchain:  * Solidity (Ethereum, Binance Smart Chain, Arbitrum, Milkomeda, ...)  * Cardano / PlutusBE:  * Java, Python, TypeScript  * Docker  * Gradle, GitHub, Jenkins  * AWSFE:  * Vue, React**Задачи:**  * разработка децентрализованного протокола (смарт-контрактов);  * разработка бэк-энд компонентов (обработка данных блокчейн, аналитика, оракулы).;  * грамотное структурирование кода, разработка unit-тестов, профилирование, документирование кода.;  * обеспечение безопасности протокола и устойчивости к атакам.;  * review кода других разработчиков.**Для нас важны:**  * опыт от 1,5 лет на позиции blockchain / back-end разработчика;  * высшее образование (техническое);  * разговорный английский;  * знание ООП, алгоритмов, шаблонов проектирования;  * уверенное знание Solidity и EVM;  * знание Java, Python, TypeScript;  * опыт разработки смарт-контрактов;  * опыт использования Maven / Gradle;  * опыт работы с Git/GitLab;  * опыт работы с Youtrack / Jira;  * понимание гибких методологий разработки (Scrum);  * опыт работы в командне;  * опыт функционального программирования, знание Haskell будут преимуществами.**Условия:**  * распределенная команда, нас 60 человек в разных городах;  * проектные команды, agile;  * гибкий график, возможна полностью удаленная занятость или работа в офисе в Санкт-Петербурге;  * неформальная атмосфера и слаженный коллектив;  * ТК РФ, стабильная белая заработная плата;  * профессиональное развитие, оплата конференций и обучения;  * ДМС, уроки английского и китайского."
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": true,
+        "name": "JS Разработчик / Middle JS Developer (Blockchain, Node.js)",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 1,
+            "name": "Москва",
+            "path": ".113.232.1."
+        },
+        "accept_temporary": true,
+        "address": {
+            "id": 3600635,
+            "metro_stations": {
+                "lat": 55.70961,
+                "lng": 37.622569,
+                "metro": [
+                    {
+                        "is_alias": false,
+                        "city_id": 1,
+                        "order": 14,
+                        "translit": "tulskaya",
+                        "id": 142,
+                        "lat": 55.70961,
+                        "line": {
+                            "translit": "serpukhovsko_timiryazevskaya",
+                            "city_id": 1,
+                            "id": 9,
+                            "name": "metroline.9",
+                            "color": "#ADACAC"
+                        },
+                        "lng": 37.622569,
+                        "name": "metro.142"
+                    }
+                ]
+            }
+        },
+        "metallic": "standard_plus",
+        "creation_site": "hh.ru",
+        "creation_site_id": 1,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1644161863,
+            "$": "2022-02-06T18:37:43.336+03:00"
+        },
+        "creation_time": "2022-01-28T17:48:42.333+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 110834762,
+            "manager_id": 7658950,
+            "user_id": 88644390,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/51909998",
+            "mobile": "https://m.hh.ru/vacancy/51909998"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {
+                "language": [
+                    {
+                        "id": 57,
+                        "degree": "c1"
+                    }
+                ]
+            }
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Внимательность к деталям, ответственность. Знание Solidity и опыт в DeFi / NFT. Опыт работы с ERC20, ERC721, ERC1155. ",
+            "resp": "Подготовка Mint & Reveal коллекций. Создание смарт-контрактов на блокчейне Ethereum.",
+            "cond": "Рассматриваем как full-time в офисе, так и удаленную проектную работу. Возможность стать частью команды проекта в быстрорастущем сегмента рынка...",
+            "skill": "JavaScript, Node.js, Разработка нового продукта",
+            "desc": null
+        },
+        "id": 51909998,
+        "url": "https://hh.ru/vacancy/51909998",
+        "salary": null,
+        "contacts": {
+            "email": "bogdan@trafficshark.pro",
+            "fio": "Паньшин Богдан",
+            "phones": {}
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 2984377,
+            "name": "TrafficShark",
+            "visible_name": "TrafficShark",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/2245364.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/2245364.png"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/2245363.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/2245363.png"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/2245362.png"
+                    },
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/450849.png"
+                    }
+                ]
+            }
+        },
+        "published_at": "2022-02-06T17:48:42.333+03:00",
+        "schedule": {
+            "id": "FULL_DAY"
+        },
+        "counters": {
+            "responses": 19
+        },
+        "key_skills": [
+            "Английский — C1 — Продвинутый",
+            "JavaScript",
+            "Node.js",
+            "Блокчейн",
+            "Blockchain",
+            "Грамотная устная и письменная речь",
+            "Удаленная работа",
+            "Генерация идей",
+            "NFT",
+            "TypeScript",
+            "Коммуникабельность",
+            "JS",
+            "Разработка нового продукта",
+            "Ethereum",
+            "ERC-721",
+            "Middle"
+        ],
+        "description": "Мы находимся в поиске Middle JS Разработчика для запуска двух последовательныхNFT-коллекций на блокчейне Ethereum с минтингом на нашем сайте.**Обязанности:**  * Подготовка Mint & Reveal коллекций  * Создание смарт-контрактов на блокчейне Ethereum**Требования:**  * Уверенное знание JavaScript & Typescript, Node.js  * Понимание основ работы блокчейна / опыт работы с одной из библиотек Web3  * Внимательность к деталям, ответственность**Будем плюсом:**  * Знание Solidity и опыт в DeFi / NFT  * Опыт работы с ERC20, ERC721, ERC1155  * Экспертиза в защите смарт-контрактов  * Опыт разработки по Agile**Условия:**  * Рассматриваем как full-time в офисе, так и удаленную проектную работу  * Возможность стать частью команды проекта в быстрорастущем сегмента рынка на ранней стадии проекта  * Возможность влиять на развитие продукта  * Условия ЗП обсуждаются на собеседовании"
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": true,
+        "name": "Senior Blockchain / Back-end Developer",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 2,
+            "name": "Санкт-Петербург",
+            "path": ".113.231.2."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 758339,
+            "disabled": false,
+            "city": "Санкт-Петербург",
+            "street": "проспект Непокорённых",
+            "building": "49",
+            "display_name": "Санкт-Петербург, проспект Непокорённых, 49",
+            "map_data": "{\"points\":{\"center\":{\"lat\":59.99414881990701,\"lng\":30.388471789024376,\"zoom\":18},\"marker\":{\"lat\":59.99428855298423,\"lng\":30.387693948408536}}}",
+            "marker": {
+                "lat": 59.99428855298423,
+                "lng": 30.387693948408536
+            },
+            "manager": {
+                "id": 2690982
+            }
+        },
+        "metallic": "standard_plus",
+        "creation_site": "spb.hh.ru",
+        "creation_site_id": 7,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1644237520,
+            "$": "2022-02-07T15:38:40.496+03:00"
+        },
+        "creation_time": "2022-01-26T15:28:34.318+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 106771985,
+            "manager_id": 7290161,
+            "user_id": 84592349,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": false,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/51794702",
+            "mobile": "https://m.hh.ru/vacancy/51794702"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Solidity (Ethereum, Binance Smart Chain, Arbitrum, Milkomeda, …). Cardano / Plutus. Vue, React. Опыт от 3-х лет на позиции blockchain / back...",
+            "resp": "Участие в разработке архитектуры системы, обсуждение технических решений с командой и архитектором.. Техническое руководство группой middle / junior разработчиков. ",
+            "cond": "Распределенная команда, нас 60 человек в разных городах. Проектные команды, agile. Гибкий график, возможна полностью удаленная занятость или работа в...",
+            "skill": null,
+            "desc": null
+        },
+        "id": 51794702,
+        "url": "https://hh.ru/vacancy/51794702",
+        "salary": null,
+        "contacts": {
+            "email": "maria.koteneva@crplab.ru",
+            "fio": "Котенёва Мария",
+            "phones": {}
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 2148666,
+            "name": "Центр Реактивного Программирования",
+            "visible_name": "Центр Реактивного Программирования",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/899572.jpg"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/4038974.jpeg"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/4038975.jpeg"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/4038975.jpeg"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/4038976.jpeg"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/4038976.jpeg"
+                    }
+                ]
+            },
+            "employer_organization_form_id": 0
+        },
+        "published_at": "2022-02-07T15:28:34.318+03:00",
+        "schedule": {
+            "id": "FULL_DAY"
+        },
+        "counters": {
+            "responses": 3
+        },
+        "key_skills": [
+            "Blockchain"
+        ],
+        "description": "Центр Реактивного Программирования занимается занимается разработкойсобственных и партнерских продуктов в наукоемких областях:  * Технологий распределенных реестров и блокчейна;  * Искусственного интеллекта и машинного обучения;  * Логистики и моделирования испытаний транспортных средств;  * Прикладной механики;  * Кибербезопасности и др.Мы ищем старшего разработчика blockchain / back-end в проект *Blueshift:Децентрализованная финансовая (DeFi) платформа для управления цифровымиактивами на базе blockchain.Наш проект - это:  * Передовая идея, подкрепленная математическим моделированием. Мы двигаем технологию вперед, а не повторяем чужие решения.;  * Опытная и высоко мотивированная команда;  * Сильные партнеры и инвесторы.**Технологический стек:**Blockchain:  * Solidity (Ethereum, Binance Smart Chain, Arbitrum, Milkomeda, ...);  * Cardano / Plutus.BE:  * Java, Python, TypeScript;  * Docker;  * Gradle, GitHub, Jenkins;  * AWS.FE:  * Vue, React.**Задачи:**  * Разработка децентрализованного протокола (смарт-контрактов);  * Разработка бэк-энд компонентов (обработка данных блокчейн, аналитика, оракулы).;  * Участие в разработке архитектуры системы, обсуждение технических решений с командой и архитектором.;  * Техническое руководство группой middle / junior разработчиков;  * Грамотное структурирование кода, разработка unit-тестов, профилирование, документирование кода.;  * Обеспечение безопасности протокола и устойчивости к атакам.;  * Review кода других разработчиков.**Для нас важны:**  * Опыт от 3-х лет на позиции blockchain / back-end разработчика;  * Высшее образование (техническое);  * Разговорный английский;  * Знание ООП, алгоритмов, шаблонов проектирования;  * Уверенное знание Solidity и EVM;  * Знание Java, Python, TypeScript;  * Опыт разработки смарт-контрактов;  * Опыт использования Maven / Gradle;  * Опыт работы с Git/GitLab;  * Опыт работы с Youtrack / Jira;  * Понимание гибких методологий разработки (Scrum);  * Сильные навыки командного взаимодействия;  * Опыт функционального программирования, знание Haskell будут преимуществами.**Условия** :  * Распределенная команда, нас 60 человек в разных городах;  * Проектные команды, agile;  * Гибкий график, возможна полностью удаленная занятость или работа в офисе в Санкт-Петербурге;  * Неформальная атмосфера и слаженный коллектив;  * ТК РФ, стабильная белая заработная плата;  * Профессиональное развитие, оплата конференций и обучения;  * ДМС, уроки английского и китайского."
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": false,
+        "name": "Middle / Senior Solidity Developer",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 115,
+            "name": "Киев",
+            "path": ".5.115."
+        },
+        "accept_temporary": false,
+        "metallic": "standard",
+        "creation_site": "grc.ua",
+        "creation_site_id": 2,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1643937790,
+            "$": "2022-02-04T04:23:10.317+03:00"
+        },
+        "creation_time": "2022-01-23T01:34:24.400+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 55875445,
+            "manager_id": 3372066,
+            "user_id": 33934299,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/51555883",
+            "mobile": "https://m.hh.ru/vacancy/51555883"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {
+                "language": [
+                    {
+                        "id": 57,
+                        "degree": "b1"
+                    }
+                ]
+            }
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Solidity Developer. You will play a key role in making Blockchain and Crypto-Currency accessible to non-technical users. ",
+            "resp": "Build staking pools and bridge cryptocurrencies on different blockchains.  Collaborate closely with the rest of the engineering team to review...",
+            "cond": null,
+            "skill": "MS Access, Microsoft Access, Access, Quality Control",
+            "desc": null
+        },
+        "id": 51555883,
+        "url": "https://hh.ru/vacancy/51555883",
+        "salary": {
+            "from": 3500,
+            "to": 7000,
+            "gross": false,
+            "currency": "USD"
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": false,
+            "category": "PROJECT_DIRECTOR",
+            "country_id": 2,
+            "state": "APPROVED",
+            "id": 2706864,
+            "name": "Voronova I.N",
+            "visible_name": "Voronova I.N"
+        },
+        "published_at": "2022-01-23T01:34:24.400+03:00",
+        "schedule": {
+            "id": "REMOTE"
+        },
+        "counters": {
+            "responses": 2
+        },
+        "key_skills": [
+            "Английский — B1 — Средний",
+            "Blockchain",
+            "MS Access",
+            "Microsoft Access",
+            "Access",
+            "Quality Control"
+        ],
+        "description": "Solidity Developer  You will play a key role in making Blockchain and Crypto-Currency accessibleto non-technical users.**Responsibilities and Daily Duties:**● Architect, develop, and deploy decentralized applications providingpermissioned access to data at both the smart contract and protocol level  ● Build integration libraries to interface with our server and APIs  ● Build staking pools and bridge cryptocurrencies on different blockchains  ● Collaborate closely with the rest of the engineering team to reviewapplication requirements, help plan implementation details and estimatedelivery timelines  ● Provide mentorship to your peers in the engineering team through educationon best practices**Qualifications:**  You are obsessed with creating software for an excellent user experience, arefamiliar with the pace of a start-up going into a growth phase.   **You have:**  ● Expertise in public and permissioned blockchain technologies, theirarchitectures, and trade-offs  ● Advanced knowledge of smart contract development including production anddeployments  ● Worked on multiple high quality protocol smart contracts  ● Experience in interacting with the Ethereum blockchain and working knowledgeof various token standards such as ERC20, ERC721, ERC1155  ● Knowledge of cryptographic hash functions, cryptographic libraries &concepts, and consensus protocols  ● Prior experience in developing high-quality backend architecture**Payment Terms:**● Salary range: $3500-$6500  ● Equity paid in token: minimum requirement to to receive at least 20% of thesalary in tokens with ability up to 50% of salary amount paid in tokens with avesting period of minimum of three years. This will provide an APY of up to800% if vested on a 5 year period.  ● Bonuses in our token"
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": true,
+        "name": "Senior golang-developer / Middle GO разработчик (Remote)",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 1,
+            "name": "Москва",
+            "path": ".113.232.1."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 5880266,
+            "disabled": false,
+            "city": "Москва",
+            "street": "улица Арбат",
+            "building": "10",
+            "display_name": "Москва, улица Арбат, 10",
+            "map_data": "{\"points\":{\"center\":{\"lat\":55.75138599997488,\"lng\":37.596678,\"zoom\":19},\"marker\":{\"lat\":55.751386,\"lng\":37.596678}}}",
+            "marker": {
+                "lat": 55.751386,
+                "lng": 37.596678
+            },
+            "manager": {
+                "id": 6958823
+            }
+        },
+        "metallic": "standard_plus",
+        "creation_site": "hh.ru",
+        "creation_site_id": 1,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1644230314,
+            "$": "2022-02-07T13:38:34.636+03:00"
+        },
+        "creation_time": "2022-01-20T13:13:29.701+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 103645360,
+            "manager_id": 6958823,
+            "user_id": 81476884,
+            "latest_activity": null
+        },
+        "inbox_possibility": false,
+        "chat_write_possibility": "DISABLED",
+        "notify": false,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/51414397",
+            "mobile": "https://m.hh.ru/vacancy/51414397"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Опыт написания смартконтрактов (мы используем Solidity). Желателен опыт работы с XML (XSD, libxml2). Желателен опыт работы с криптографией (электронная...",
+            "resp": "Разработка приложений внутреннего пользования для финансового сектора. Реализация сервисов корпоративной блокчейн-сети. Поддержка и оптимизация существующего кода. Написание систем для...",
+            "cond": "Полностью “белая” зарплата, оформление по ТК РФ с первого дня работы. Опытная команда коллег, интересные проекты в сфере финтех. ",
+            "skill": "Средства криптографической защиты информации",
+            "desc": null
+        },
+        "id": 51414397,
+        "url": "https://hh.ru/vacancy/51414397",
+        "salary": {
+            "to": 400000,
+            "gross": true,
+            "currency": "RUR"
+        },
+        "contacts": {
+            "email": "k.chernyavskaya@dltru.org",
+            "fio": "Чернявская Кристина",
+            "phones": {
+                "phones": [
+                    {
+                        "city": "967",
+                        "country": "7",
+                        "number": "1798887",
+                        "comment": "TG @KristinaChernyavskaya"
+                    }
+                ]
+            }
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 5467058,
+            "name": "Системы Распределенного Реестра",
+            "visible_name": "Системы Распределенного Реестра",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/4044595.jpeg"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/4044595.jpeg"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/4044596.jpeg"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/4044596.jpeg"
+                    },
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/900977.jpg"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/4044594.jpeg"
+                    }
+                ]
+            },
+            "employer_organization_form_id": 0
+        },
+        "published_at": "2022-02-07T13:13:29.701+03:00",
+        "schedule": {
+            "id": "REMOTE"
+        },
+        "counters": {
+            "responses": 18
+        },
+        "key_skills": [
+            "Golang",
+            "Средства криптографической защиты информации",
+            "Blockchain"
+        ],
+        "description": "**ООО «Системы распределенного реестра»** – первый блокчейн-оператор в России.Цель компании – создание российской инфраструктуры распределенных реестров дляфинансового сектора, внедрение инновационных сервисов и изучение потенциалаприменения блокчейна на российском рынке.В настоящее время ищем **Senior / Middle golang developer** на наши внутренниефинтех проекты**Хотим и ждём от кандидата:**  * опыт работы от года, наличие завершенного проекта в эксплуатации,  * навыки использования Go, cgo,  * опыт работы с блокчейн платформами (желательно Ethereum) или интерес к теме,  * опыт написания смартконтрактов (мы используем Solidity),  * желателен опыт работы с XML (XSD, libxml2),  * желателен опыт работы с криптографией (электронная подпись, шифрование)**Что нужно делать:**  * разработка приложений внутреннего пользования для финансового сектора,  * реализация сервисов корпоративной блокчейн-сети,  * поддержка и оптимизация существующего кода,  * написание систем для развёртывания и тестирования,  * участие в проектировании архитектуры приложений и сервисов сети,  * взаимодействие с командой разработчиков и product owner**Что готовы предложить:**  * полностью “белая” зарплата, оформление по ТК РФ с первого дня работы,  * опытная команда коллег, интересные проекты в сфере финтех,  * полная удалёнка,  * ДМС после прохождения испытательного срока,  * 31 день ежегодного оплачиваемого отпуска,  * премия за устроенных по вашей рекомендации сотрудников (до 50 000 рублей)**Ждём откликов!**"
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": true,
+        "name": "Middle Front-end Developer",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 2,
+            "name": "Санкт-Петербург",
+            "path": ".113.231.2."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 758339,
+            "disabled": false,
+            "city": "Санкт-Петербург",
+            "street": "проспект Непокорённых",
+            "building": "49",
+            "display_name": "Санкт-Петербург, проспект Непокорённых, 49",
+            "map_data": "{\"points\":{\"center\":{\"lat\":59.99414881990701,\"lng\":30.388471789024376,\"zoom\":18},\"marker\":{\"lat\":59.99428855298423,\"lng\":30.387693948408536}}}",
+            "marker": {
+                "lat": 59.99428855298423,
+                "lng": 30.387693948408536
+            },
+            "manager": {
+                "id": 2690982
+            }
+        },
+        "metallic": "standard_plus",
+        "creation_site": "spb.hh.ru",
+        "creation_site_id": 7,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1644241127,
+            "$": "2022-02-07T16:38:47.719+03:00"
+        },
+        "creation_time": "2022-01-26T16:11:38.104+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 110697266,
+            "manager_id": 7646216,
+            "user_id": 88507166,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/51798366",
+            "mobile": "https://m.hh.ru/vacancy/51798366"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Понимание гибких методологий разработки (Scrum). Сильные навыки командного взаимодействия. Знание Solidity будет преимуществом. Опыт функционального программирования, знание Haskell будут преимуществами.",
+            "resp": "Технологий распределенных реестров и блокчейна. Искусственного интеллекта и машинного обучения. Логистики и моделирования испытаний транспортных средств. Прикладной механики. ",
+            "cond": "Распределенная команда, нас 60 человек в разных городах. Проектные команды, agile. Гибкий график, возможна полностью удаленная занятость или работа в...",
+            "skill": null,
+            "desc": null
+        },
+        "id": 51798366,
+        "url": "https://hh.ru/vacancy/51798366",
+        "salary": null,
+        "contacts": {
+            "email": "maria.koteneva@crplab.ru",
+            "fio": "Котенёва Мария",
+            "phones": {}
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 2148666,
+            "name": "Центр Реактивного Программирования",
+            "visible_name": "Центр Реактивного Программирования",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/899572.jpg"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/4038974.jpeg"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/4038975.jpeg"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/4038975.jpeg"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/4038976.jpeg"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/4038976.jpeg"
+                    }
+                ]
+            },
+            "employer_organization_form_id": 0
+        },
+        "published_at": "2022-02-07T16:11:38.104+03:00",
+        "schedule": {
+            "id": "FULL_DAY"
+        },
+        "counters": {
+            "responses": 7
+        },
+        "key_skills": [
+            "Blockchain"
+        ],
+        "description": "Центр Реактивного Программирования занимается занимается разработкойсобственных и партнерских продуктов в наукоемких областях:  * Технологий распределенных реестров и блокчейна;  * Искусственного интеллекта и машинного обучения;  * Логистики и моделирования испытаний транспортных средств;  * Прикладной механики;  * Кибербезопасности и др.Мы ищем разработчика middle front-end developer в проект Blueshift:Децентрализованная финансовая (DeFi) платформа для управления цифровымиактивами на базе blockchain. Наш проект - это:  * Передовая идея, подкрепленная математическим моделированием. Мы двигаем технологию вперед, а не повторяем чужие решения.;  * Опытная и высоко мотивированная команда;  * Сильные партнеры и инвесторы.**Технологический стек:**FE:  * Vue, React.Blockchain:  * Solidity (Ethereum, Binance Smart Chain, Arbitrum, Milkomeda, ...);  * Cardano / Plutus.BE:  * Java, Python, TypeScript;  * Docker;  * Gradle, GitHub, Jenkins;  * AWS.**Задачи:**  * Разработка web-фронтэнда для децентрализованных приложений (DApps);  * Построение взаимодействия со смарт-контрактами и бэк-энд компонентами с использованием Web3, REST.;  * Участие в разработке UX.;  * Грамотное структурирование кода, документирование кода.;  * Review кода других разработчиков.**Для нас важны:**  * Опыт от 1,5 лет на позиции front-end разработчика;  * Высшее образование (техническое);  * Разговорный английский;  * Знание ООП, алгоритмов, шаблонов проектирования;  * Уверенное знание JavaScript и TypeScript;  * Знание HTML5, CSS3, Sass, Less;  * Опыт разработки Vue / React / Angular;  * Опыт работы с Git/GitLab;  * Опыт работы с Youtrack / Jira;  * Понимание гибких методологий разработки (Scrum);  * Сильные навыки командного взаимодействия;  * Знание Solidity будет преимуществом;  * Опыт функционального программирования, знание Haskell будут преимуществами.**Условия:**  * Распределенная команда, нас 60 человек в разных городах;  * Проектные команды, agile;  * Гибкий график, возможна полностью удаленная занятость или работа в офисе в Санкт-Петербурге;  * Неформальная атмосфера и слаженный коллектив;  * ТК РФ, стабильная белая заработная плата;  * Профессиональное развитие, оплата конференций и обучения;  * ДМС, уроки английского и китайского."
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": true,
+        "name": "Senior Front-end Developer",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 2,
+            "name": "Санкт-Петербург",
+            "path": ".113.231.2."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 758339,
+            "disabled": false,
+            "city": "Санкт-Петербург",
+            "street": "проспект Непокорённых",
+            "building": "49",
+            "display_name": "Санкт-Петербург, проспект Непокорённых, 49",
+            "map_data": "{\"points\":{\"center\":{\"lat\":59.99414881990701,\"lng\":30.388471789024376,\"zoom\":18},\"marker\":{\"lat\":59.99428855298423,\"lng\":30.387693948408536}}}",
+            "marker": {
+                "lat": 59.99428855298423,
+                "lng": 30.387693948408536
+            },
+            "manager": {
+                "id": 2690982
+            }
+        },
+        "metallic": "standard_plus",
+        "creation_site": "spb.hh.ru",
+        "creation_site_id": 7,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1644241130,
+            "$": "2022-02-07T16:38:50.815+03:00"
+        },
+        "creation_time": "2022-01-26T16:26:13.794+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 110697266,
+            "manager_id": 7646216,
+            "user_id": 88507166,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/51799097",
+            "mobile": "https://m.hh.ru/vacancy/51799097"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Понимание гибких методологий разработки (Scrum). Сильные навыки командного взаимодействия. Знание Solidity будет преимуществом. Опыт функционального программирования, знание Haskell будут преимуществами.",
+            "resp": "Участие в разработке архитектуры системы, обсуждение технических решений с командой и архитектором.. Участие в разработке UX.. Техническое руководство группой middle...",
+            "cond": "Распределенная команда, нас 60 человек в разных городах. Проектные команды, agile. Гибкий график, возможна полностью удаленная занятость или работа в...",
+            "skill": null,
+            "desc": null
+        },
+        "id": 51799097,
+        "url": "https://hh.ru/vacancy/51799097",
+        "salary": null,
+        "contacts": {
+            "email": "maria.koteneva@crplab.ru",
+            "fio": "Котенёва Мария",
+            "phones": {}
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 2148666,
+            "name": "Центр Реактивного Программирования",
+            "visible_name": "Центр Реактивного Программирования",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/899572.jpg"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/4038974.jpeg"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/4038975.jpeg"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/4038975.jpeg"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/4038976.jpeg"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/4038976.jpeg"
+                    }
+                ]
+            },
+            "employer_organization_form_id": 0
+        },
+        "published_at": "2022-02-07T16:26:13.794+03:00",
+        "schedule": {
+            "id": "FULL_DAY"
+        },
+        "counters": {
+            "responses": 3
+        },
+        "key_skills": [
+            "Blockchain"
+        ],
+        "description": "Центр Реактивного Программирования занимается занимается разработкойсобственных и партнерских продуктов в наукоемких областях:  * Технологий распределенных реестров и блокчейна;  * Искусственного интеллекта и машинного обучения;  * Логистики и моделирования испытаний транспортных средств;  * Прикладной механики;  * Кибербезопасности и др.Мы ищем старшего front-end разработчика в проект *Blueshift:Децентрализованная финансовая (DeFi) платформа для управления цифровымиактивами на базе blockchain.* Наш проект - это:  * Передовая идея, подкрепленная математическим моделированием. Мы двигаем технологию вперед, а не повторяем чужие решения.;  * Опытная и высоко мотивированная команда;  * Сильные партнеры и инвесторы.**Технологический стек:**FE:  * Vue, React.Blockchain:  * Solidity (Ethereum, Binance Smart Chain, Arbitrum, Milkomeda, ...);  * Cardano / Plutus.BE:  * Java, Python, TypeScript;  * Docker;  * Gradle, GitHub, Jenkins;  * AWS.**Задачи:**  * Разработка web-фронтэнда для децентрализованных приложений (DApps);  * Построение взаимодействия со смарт-контрактами и бэк-энд компонентами с использованием Web3, REST.;  * Участие в разработке архитектуры системы, обсуждение технических решений с командой и архитектором.;  * Участие в разработке UX.;  * Техническое руководство группой middle / junior разработчиков.;  * Грамотное структурирование кода, документирование кода.;  * Review кода других разработчиков.**Для нас важны:**  * Опыт от 3-х лет на позиции front-end разработчика;  * Высшее образование (техническое);  * Разговорный английский;  * Знание ООП, алгоритмов, шаблонов проектирования;  * Уверенное знание JavaScript и TypeScript;  * Знание HTML5, CSS3, Sass, Less;  * Опыт разработки Vue / React / Angular;  * Опыт работы с Git/GitLab;  * Опыт работы с Youtrack / Jira;  * Понимание гибких методологий разработки (Scrum);  * Сильные навыки командного взаимодействия;  * Знание Solidity будет преимуществом;  * Опыт функционального программирования, знание Haskell будут преимуществами.**Условия:**  * Распределенная команда, нас 60 человек в разных городах;  * Проектные команды, agile;  * Гибкий график, возможна полностью удаленная занятость или работа в офисе в Санкт-Петербурге;  * Неформальная атмосфера и слаженный коллектив;  * ТК РФ, стабильная белая заработная плата;  * Профессиональное развитие, оплата конференций и обучения;  * ДМС, уроки английского и китайского."
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": false,
+        "name": "Middle Java Developer",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 1002,
+            "name": "Минск",
+            "path": ".16.1002."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 739913,
+            "disabled": false,
+            "metro_stations": {
+                "lat": 53.908644,
+                "lng": 27.575054,
+                "metro": [
+                    {
+                        "is_alias": false,
+                        "city_id": 1002,
+                        "order": 7,
+                        "translit": "ploshad_pobedy",
+                        "id": 409,
+                        "lat": 53.908644,
+                        "line": {
+                            "translit": "moskovskaya",
+                            "city_id": 1002,
+                            "id": 62,
+                            "name": "metroline.62",
+                            "color": "#0521C3"
+                        },
+                        "lng": 27.575054,
+                        "name": "metro.409"
+                    },
+                    {
+                        "is_alias": false,
+                        "city_id": 1002,
+                        "order": 10,
+                        "translit": "traktornii_zavod",
+                        "id": 426,
+                        "lat": 53.890033,
+                        "line": {
+                            "translit": "avtozavodskaya",
+                            "city_id": 1002,
+                            "id": 63,
+                            "name": "metroline.63",
+                            "color": "#BF0808"
+                        },
+                        "lng": 27.614374,
+                        "name": "metro.426"
+                    }
+                ]
+            },
+            "city": "Минск",
+            "street": "переулок Козлова",
+            "building": "7",
+            "display_name": "Минск, переулок Козлова, 7",
+            "map_data": "{\"points\":{\"center\":{\"lat\":53.899339541067846,\"lng\":27.594713999999925,\"zoom\":14},\"marker\":{\"lat\":53.896798,\"lng\":27.600297}}}",
+            "marker": {
+                "lat": 53.896798,
+                "lng": 27.600297
+            },
+            "manager": {
+                "id": 2721960
+            }
+        },
+        "metallic": "standard_plus",
+        "creation_site": "rabota.by",
+        "creation_site_id": 17,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1644143839,
+            "$": "2022-02-06T13:37:19.172+03:00"
+        },
+        "creation_time": "2022-01-10T13:25:45.665+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 49491232,
+            "manager_id": 2721960,
+            "user_id": 27846512,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/50867733",
+            "mobile": "https://m.hh.ru/vacancy/50867733"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Java 11. Solid knowledge of OOP principles. Understanding of REST and microservices architecture. Knowledge of design patterns (GoF). ",
+            "resp": "Working as part of the engineering team to deliver the software needed to achieve business goals. Writing high quality code...",
+            "cond": null,
+            "skill": "Java, Git, REST, SQL",
+            "desc": null
+        },
+        "id": 50867733,
+        "url": "https://hh.ru/vacancy/50867733",
+        "salary": null,
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 4,
+            "state": "APPROVED",
+            "id": 2174422,
+            "name": "Смартум Про",
+            "visible_name": "Смартум Про",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/1692619.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/1692619.png"
+                    },
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/312563.png"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/1692617.png"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/1692618.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/1692618.png"
+                    }
+                ]
+            },
+            "employer_organization_form_id": 0
+        },
+        "published_at": "2022-02-06T13:25:45.665+03:00",
+        "schedule": {
+            "id": "FULL_DAY"
+        },
+        "counters": {
+            "responses": 5
+        },
+        "key_skills": [
+            "Java",
+            "RxJava",
+            "Git",
+            "REST",
+            "SQL",
+            "gRPC",
+            "Gradle",
+            "Dagger2",
+            "AWS",
+            "Docker"
+        ],
+        "description": "**Introduction**We are Smartym Pro – a custom software developing company. We are focused oncustom software development and IT services for clients in Europe, the USA, UKand Israel. Our primary focus is on the fintech, blockchain and edTech domain,but we have strong experience in other domains such as business processautomation and entertainment. We have more than 50 highly qualifiedspecialists and we are growing the development team in Warsaw.Now we are looking for a Middle Java Software Engineer to precipitate in thedeveloping cutting edge fintech (open banking) solution used by the leadingpayment providers. We are going to hire up to 4 engineers for middlepositions. If you are looking for something else except fintech, please, letus know.**About your future project**It is an open banking payments platform driving the shift from card to bankpayments, European bank connectivity (over 2,500 banks), data, and compliancecapabilities and is authorised as an AISP and as a PISP. Our platform is bothbank and developer-friendly.**What you should do:**  * working as part of the engineering team to deliver the software needed to achieve business goals;  * writing high quality code, including appropriate automated tests and acceptance conditions;  * actively looking for ways to improve our product and helping to shape the backlog;  * taking part in the activities of an agile team, such as planning meetings, backlog grooming, demos and retrospectives;  * experimenting, taking part in discussions around coding standards, design, architecture, processes & tools and promoting new ideas;  * supporting our live application, responding to production alerts and fixing bugs.**Must have:**  * Java 11+  * solid knowledge of OOP principles;  * understanding of REST and microservices architecture;  * knowledge of design patterns (GoF);  * good soft skills: ability to communicate with the technical team;  * English B1+**Nice to have:**  * DevOps and cloud platform (AWS) knowledge;  * Experience with protocols: gRPC/Protobuf, OAuth2;  * Financial-domain knowledge related to OpenBanking, PSD2.**Technologies used:** Java 11, gRPC, Protobuf, RxJava, JOOQ, Dagger2, Gradle,Kubernetes.**We provide:**  * сompetitive salary pegged to USD and performance-based bonuses;  * mentor from our team who will support you during onboarding;  * domain education;  * performance-based monthly bonuses;  * performance review and appraisal each 6 month **;**  * flexible working conditions: remote/office;  * relocation possibility;  * 5 paid sick days per year (except for the official sick leave);  * English classes."
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": false,
+        "name": "QA Engineer",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 135,
+            "name": "Харьков",
+            "path": ".5.2206.135."
+        },
+        "accept_temporary": false,
+        "metallic": "standard_plus",
+        "template": "makeup:25668",
+        "creation_site": "grc.ua",
+        "creation_site_id": 2,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1644136062,
+            "$": "2022-02-06T11:27:42.038+03:00"
+        },
+        "creation_time": "2022-01-12T10:42:18.404+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 104308295,
+            "manager_id": 7029659,
+            "user_id": 82137525,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/50973819",
+            "mobile": "https://m.hh.ru/vacancy/50973819"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {
+                "language": [
+                    {
+                        "id": 57,
+                        "degree": "b2"
+                    }
+                ]
+            }
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Basic knowledge in web3.js. Confirmed experience in commercial blockchain solutions over 2 years. Fast learner with good problem solving and...",
+            "resp": "We’re Primex. Primex is the new prime brokerage liquidity protocol for DEX-agnostic cross-margin trading with trader scoring...",
+            "cond": "Hi there!",
+            "skill": "JavaScript, Английский язык, Teambuilding, Analytical skills, QA",
+            "desc": null
+        },
+        "id": 50973819,
+        "url": "https://hh.ru/vacancy/50973819",
+        "salary": null,
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 2,
+            "state": "APPROVED",
+            "id": 594876,
+            "name": "Adoriasoft",
+            "visible_name": "Adoriasoft",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/2132102.jpeg"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/2132102.jpeg"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/2132101.jpeg"
+                    },
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/422507.jpg"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/2132103.jpeg"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/2132103.jpeg"
+                    }
+                ]
+            },
+            "employer_organization_form_id": 0
+        },
+        "published_at": "2022-02-05T10:42:18.404+03:00",
+        "schedule": {
+            "id": "REMOTE"
+        },
+        "counters": {
+            "responses": 12
+        },
+        "key_skills": [
+            "Английский — B2 — Средне-продвинутый",
+            "JavaScript",
+            "Английский язык",
+            "Teambuilding",
+            "Regression testing",
+            "Analytical skills",
+            "QA",
+            "QA Engineer"
+        ],
+        "description": "Hi there!We’re Primex. Primex is the new prime brokerage liquidity protocol for DEX-agnostic cross-margin trading with trader scoring mechanisms.With Primex, lenders provide liquidity to pools where traders use it forleveraged trading, while lenders then have the opportunity to earn higheryields compared to lending protocols, as the interest is generated from marginfees and profits of successful trades.The project will be launched on one of the Eth L2s and Moonbeam (one of thePolkadot Parachains). Primex.finance is backed by some of the top VCs in thespace, incl. Stratos Technologies, Hypersphere and some others.Now we’re extending the team and looking for a talented and motivated QAengineer with experience building DeFi dApps and a deep understanding ofblockchain technologies. ​​In addition to the monthly salary, we also grantour team members with governance tokens of the protocol.If you are ready to make a huge leap in the decentralized finance worldtogether with our friendly team, check the details below and feel free toreach out.**Requirements:**  * Being available for full-time;  * Seniority — strong middle/senior;  * 2+ experience in writing documentation in English;  * 2+ experience in the design of test’s process and penetration testing;  * Excellent knowledge in Selenium, Swagger;  * Basic knowledge in web3.js;  * Confirmed experience in commercial blockchain solutions over 2 years;  * Fast learner with good problem solving and analytical skills;  * English: Upper — Intermediate (written and reading);  * Development experience with JavaScript & Typescript  * Experience in process design and implementation.**Would be nice:**  * Experience Rust, Solidity, JS;  * Auto testing in SelenIDE  * Understanding of DeFi mechanisms and related utilities, e.g. liquidity pools, AMMs and bonding curves, DAOs, Uniswap, SushiSwap, Aave;  * A background in economics, finance, banking, or a similar relevant field;  * A degree in computer science or relevant field or comparable experience;  * Cryptocurrency user;  * Experience with writing automation tests.**Benefits:**  * Remote and flexible work hours  * Paid vacation and sick days-off  * Medical insurance  * Long-term and stable collaboration  * Monthly income above the market average  * Personal and professional growth  * Professional IT events compensation  * Compensation for English classes and sport activities"
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": false,
+        "name": "Senior Frontend-разработчик",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 90,
+            "name": "Томск",
+            "path": ".113.222.1255.90."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 3216205,
+            "disabled": false,
+            "city": "Томск",
+            "street": "проспект Кирова",
+            "building": "51Ас5",
+            "display_name": "Томск, проспект Кирова, 51Ас5",
+            "map_data": "{\"points\":{\"center\":{\"lat\":56.464096999971694,\"lng\":84.97955699999996,\"zoom\":19},\"marker\":{\"lat\":56.4642039092418,\"lng\":84.98016586144496}}}",
+            "marker": {
+                "lat": 56.4642039092418,
+                "lng": 84.98016586144496
+            },
+            "manager": {
+                "id": 5385924
+            }
+        },
+        "metallic": "standard",
+        "creation_site": "novosibirsk.hh.ru",
+        "creation_site_id": 14,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1643798598,
+            "$": "2022-02-02T13:43:18.532+03:00"
+        },
+        "creation_time": "2022-02-02T12:01:31.288+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 104443098,
+            "manager_id": 7042099,
+            "user_id": 82271833,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/52028087",
+            "mobile": "https://m.hh.ru/vacancy/52028087"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Уверенное знание JS, TS. Применение на практике ООП в связке с SOLID. Твердое представление о \"чистом\" коде. Готовность предлагать технические...",
+            "resp": "Внедрение новых инструментов и методологий в команду. Наставничество и помощь в росте middle/senior разработчикам. Оптимизацию клиентской части приложения. ",
+            "cond": "Поощряем. Разработали собственную методологию выявления и решения проблем и по ней выплачиваем премии за решение стратегических задач компании. — ",
+            "skill": "JavaScript, Git, Управление проектами",
+            "desc": null
+        },
+        "id": 52028087,
+        "url": "https://hh.ru/vacancy/52028087",
+        "salary": {
+            "from": 200000,
+            "gross": false,
+            "currency": "RUR"
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 4319336,
+            "name": "Умный Мир",
+            "visible_name": "Умный Мир",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/685760.png"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/3184173.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/3184173.png"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/3184172.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/3184172.png"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/3184171.png"
+                    }
+                ]
+            },
+            "employer_organization_form_id": 0
+        },
+        "published_at": "2022-02-02T12:01:31.288+03:00",
+        "schedule": {
+            "id": "FULL_DAY"
+        },
+        "counters": {
+            "responses": 0
+        },
+        "key_skills": [
+            "JavaScript",
+            "TypeScript",
+            "GraphQL",
+            "Git",
+            "Управление проектами",
+            "vuejs"
+        ],
+        "description": "**Привет!** Мы – томская IT-компания SMART WORLD.**SMART WORLD** \\- компания с 10-летней историей, специализирующаяся напродуктовой разработке. Наш фокус в части разрабатываемых продуктов: цифровыеплатформы, автоматизация производства и VR GO.**Мы ищем** Senior frontend-разработчика, который сможет усилить нашупродуктовую команду, состоящую из 62 человек. Основной стэк технологий напроекте это PHP на бэкенде и Vue.js на фронте.**Проект:**  Популярная во всем мире (Топ-100) высоконагруженная цифровая платформа,затрагивающая отрасль финансовых активов. Вся разработка ведется сиспользованием современных фреймворков. Особое внимание уделяем безопасностивзаимодействия пользователей и оптимизации скорости работы площадки.Мы применяем самые современные архитектурные решения и технологии (в частностиBlockchain и Big Data Sources). В продакшене продукт более 7 лет, постоянноулучшается и обновляется.**Готовы тебе доверить:**  * Проектирование архитектуры высоконагруженного приложения;  * Внедрение новых инструментов и методологий в команду;  * Наставничество и помощь в росте middle/senior разработчикам;  * Оптимизацию клиентской части приложения;  * Внесение улучшений UX/UI качества приложения;  * Участие в улучшении продукта и построении процессов проекта;  * Непосредственное взаимодействие со всей командой разработки;**Что мы ждем от тебя:**  * Опыт от 4х лет в качестве frontend разработчика;  * Опыт работы с angular/react/vue от 1 года;  * Опыт написания e2e/unit тестов (TDD/BDD/etc);  * Уверенное знание JS, TS;  * Применение на практике ООП в связке с SOLID;  * Твердое представление о \"чистом\" коде;  * Готовность предлагать технические решения и аргументировать их необходимость;  * Опыт практики код-ревью и менторство над middle разработчиками;  * Понимание механизма работы фреймворка (angular/react/vue);  * Умение проводить качественное код-ревью;**Будет плюсом:**  * Опыт работы с graphql и интеграции технологии в проект;  * Опыт проектирования архитектуры с нуля;  * Опыт работы с SSR приложениями;**У нас:**   **— Официальное трудоустройство.** Да, мы выплачиваем белую зарплату набанковскую карту, а не в конверте, и делаем все налоговые отчисления. Да, этоне плюшка, это наша обязанность. Пишем, потому что это важно.   **— Поощряем.** Разработали собственную методологию выявления и решенияпроблем и по ней выплачиваем премии за решение стратегических задач компании.   **— Не жадничаем/не торгуемся.** Мы готовы идти навстречу кандидату в егопожеланиях по зарплате, если они коррелируют с опытом.   **— Бизнес без финансовых рисков.** Мы давно прибыльные и самоокупаемые, безинвесторов и рисков, связанных с ними.   **— Заботимся о людях.** Техника, ПО, книги, курсы, конференции, спорт,творчество и даже обеды за счет компании   **— Удобный офис.** Он расположен в центре города. Разделён на рабочую зону илаунж с переговорками, кухней, диванами. Есть где спокойно поработать, естьгде пошуметь.   **— Удобный график.** Гибкое начало рабочего дня с 8 до 10 утра. Мы стремимсяк гибридному формату работы, можно по желанию поработать день на удаленке.   **— Развитие.** Строим индивидуальные планы развития каждого сотрудника,чтобы было ясно куда и как расти.   **— Процессы компании.** Отсутствие бюрократии, микроменеджмента и дресс-кода.   **— Поможем с релокейтом** либо обеспечим комфортные условия на удаленке спериодическими командировками в головной офис."
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": false,
+        "name": "Middle/Middle+ React Native разработчик",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 90,
+            "name": "Томск",
+            "path": ".113.222.1255.90."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 3216205,
+            "disabled": false,
+            "city": "Томск",
+            "street": "проспект Кирова",
+            "building": "51Ас5",
+            "display_name": "Томск, проспект Кирова, 51Ас5",
+            "map_data": "{\"points\":{\"center\":{\"lat\":56.464096999971694,\"lng\":84.97955699999996,\"zoom\":19},\"marker\":{\"lat\":56.4642039092418,\"lng\":84.98016586144496}}}",
+            "marker": {
+                "lat": 56.4642039092418,
+                "lng": 84.98016586144496
+            },
+            "manager": {
+                "id": 5385924
+            }
+        },
+        "metallic": "standard",
+        "creation_site": "novosibirsk.hh.ru",
+        "creation_site_id": 14,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1643798685,
+            "$": "2022-02-02T13:44:45.387+03:00"
+        },
+        "creation_time": "2021-07-22T10:13:26.347+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 104443098,
+            "manager_id": 7042099,
+            "user_id": 82271833,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/46437948",
+            "mobile": "https://m.hh.ru/vacancy/46437948"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Опыт работы с GitLab. Опыт работы с TypeScript. Понимание ООП/Solid. Понимание работы Rest API и HTTP. Понимание процесса разработки...",
+            "resp": "Разработкой мобильного приложения под IOS и Android. Поддержкой проекта и внедрением новых фич. Прокачкой своих профессиональных скилов. Проведение оптимизации требующих...",
+            "cond": "Поможем с релокейтом либо обеспечим комфортные условия на удаленке с периодическими командировками в головной офис.",
+            "skill": "Git, ООП, Управление проектами",
+            "desc": null
+        },
+        "id": 46437948,
+        "url": "https://hh.ru/vacancy/46437948",
+        "salary": {
+            "from": 150000,
+            "to": 165000,
+            "gross": false,
+            "currency": "RUR"
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 4319336,
+            "name": "Умный Мир",
+            "visible_name": "Умный Мир",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/685760.png"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/3184173.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/3184173.png"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/3184172.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/3184172.png"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/3184171.png"
+                    }
+                ]
+            },
+            "employer_organization_form_id": 0
+        },
+        "published_at": "2022-02-01T07:54:55.361+03:00",
+        "schedule": {
+            "id": "FULL_DAY"
+        },
+        "counters": {
+            "responses": 1
+        },
+        "key_skills": [
+            "Git",
+            "ООП",
+            "React Native",
+            "Управление проектами",
+            "Rest API",
+            "Gitlab"
+        ],
+        "description": " **Привет!** Мы – томская IT-компания SMART WORLD.**SMART WORLD** \\- компания с 10-летней историей, специализирующаяся напродуктовой разработке. Наш фокус в части разрабатываемых продуктов: цифроваяплатформа, автоматизация производства и VR GO. Мы делаем все для того, чтобыорганизовать деятельность человека по уму.**Мы ищем** несколько опытных react native разработчиков, которые смогутусилить нашу продуктовую команду, состоящую из 62 человек**Проект:**  Популярная во всем мире (Топ-100) высоконагруженная цифровая платформа,затрагивающая отрасль финансовых активов. Вся разработка ведется сиспользованием современных фреймворков. Особое внимание уделяем безопасностивзаимодействия пользователей и оптимизации скорости работы площадки.Мы применяем самые современные архитектурные решения и технологии (в частностиBlockchain и Big Data Sources). В продакшене продукт более 7 лет, постоянноулучшается и обновляется.**Чем предстоит заниматься:**  * Разработкой мобильного приложения под IOS и Android  * Поддержкой проекта и внедрением новых фич  * Прокачкой своих профессиональных скилов  * Проведение оптимизации требующих этого разделов  * Участие в проектирование архитектуры**Что мы ждём:**  * Опыт работы с React Native не менее года;  * Опыт работы с Redux;  * Опыт работы с GitLab;  * Опыт работы с TypeScript;  * Понимание ООП/Solid;  * Понимание работы Rest API и HTTP;  * Понимание процесса разработки программных продуктов;**Будет плюсом:**  * Опыт работы с React  * Проектирование архитектуры модулей;  * Написание мостов Java/RN | Swift/RN;  * Написание компонентов высшего порядка;  * Знание Java/Kotlin, Swift;  * Опыт написания тестов (Jest, Mocha);  * Опыт работы с выпуском бета версий TestFlight/etc;**У нас:**— **Официальное трудоустройство**. Да, мы выплачиваем белую зарплату набанковскую карту, а не в конверте, и делаем все налоговые отчисления. Да, этоне плюшка, это наша обязанность. Пишем, потому что это важно.— **Не жадничаем/не торгуемся**. Мы готовы идти навстречу кандидату в егопожеланиях по зарплате, если они коррелируют с опытом.— **Бизнес без финансовых рисков**. Мы давно прибыльные и самоокупаемые, безинвесторов и рисков, связанных с ними.— **Заботимся**. Купим любую технику и ПО, оплатим книги и курсы. Отправим наконференцию. Накормим вкусными обедами и оплатим занятия спортом - тренажерныйзал и бассейн за счёт компании.— **Удобный офис**. Расположен в центре города. Разделён на рабочую зону илаунж с переговорками, кухней, диванами. Есть где спокойно поработать, естьгде пошуметь.— **Удобный график**. Приходим в офис в интервале с 8 до 10 утра. Мы стремимсяк гибридному формату работы, можно по желанию поработать день на удаленке.— **Развиваем**. Строим индивидуальные планы развития каждого сотрудника,чтобы было ясно куда и как расти.— **Поощряем.** Разработали собственную методологию выявления и решенияпроблем и по ней выплачиваем премии за решение стратегических задач компании.  * **Поможем с релокейтом** либо обеспечим комфортные условия на удаленке с периодическими командировками в головной офис.Мы ждем твое резюме, и уверены, что ты не пожалеешь, попав в нашу крутуюкоманду!"
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": false,
+        "name": "Middle/Senior Java Software Engineer (NFT Marketplace)",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 2,
+            "name": "Санкт-Петербург",
+            "path": ".113.231.2."
+        },
+        "accept_temporary": false,
+        "metallic": "standard",
+        "code": "REF376H",
+        "creation_site": "hh.ru",
+        "creation_site_id": 1,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1643617430,
+            "$": "2022-01-31T11:23:50.969+03:00"
+        },
+        "creation_time": "2022-01-10T15:01:35.924+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 93950298,
+            "manager_id": 6002521,
+            "user_id": 71811768,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": false,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/50876119",
+            "mobile": "https://m.hh.ru/vacancy/50876119"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Knowledge of algorithms and data structures. Solid knowledge of Core Java: Maps and Collections, Exceptions, Streams, lambda-functions, etc. ",
+            "resp": "Develop features in one or several components: media server, user portal, blockchain & payments integration, etc. Write fast and reliable unit...",
+            "cond": "The order may vary a bit if you prefer TDD, but you get the idea.",
+            "skill": null,
+            "desc": null
+        },
+        "id": 50876119,
+        "url": "https://hh.ru/vacancy/50876119",
+        "salary": null,
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "structure_name": "52729",
+            "state": "APPROVED",
+            "id": 52729,
+            "name": "Devexperts",
+            "visible_name": "Devexperts",
+            "main_employer_id": 52729,
+            "badges": {
+                "badge": [
+                    {
+                        "type": "employer-hh-rating",
+                        "description": "Топ-100 Рейтинга работодателей России (средние компании)",
+                        "url": "https://rating.hh.ru/history/rating2020"
+                    }
+                ]
+            }
+        },
+        "published_at": "2022-01-31T11:23:50.949+03:00",
+        "schedule": {
+            "id": "REMOTE"
+        },
+        "counters": {
+            "responses": 1
+        },
+        "key_skills": null,
+        "description": "Devexperts has been working for nearly two decades consulting and developingfor the financial industry. We solve complex technological challenges facingthe most well-respected financial institutions worldwide.By becoming a part of Devexperts, you’ll become a part of a company thatfosters self-improvement and actively seeks out-of-the-box ideas.Our teamswork together to create the next generation of financial software solutions.We welcome all candidates who believe, as we do, that innovation is groundedin education.We are looking for the Java backend developer to fill the open position in ourNFT Marketplace project: a platform that combines live-streaming, blockchaintechnology and trading concepts together to take interactions between creatorsand their patrons to the next level. Think Twitch + Patreon + Rarible kind ofthing.Your main responsibility will be to bring product ideas to life, primarily bydoing _software development_ :  1. find a problem to solve  2. come up with an impressive solution that can scale and evolve gracefully  3. develop features in one or several components: media server, user portal, blockchain & payments integration, etc  4. write fast and reliable unit tests  5. pass code review, merge and release it  6. collect feedback  7. repeatThe order may vary a bit if you prefer TDD, but you get the idea.**Required skills:**  * knowledge of algorithms and data structures  * solid knowledge of Core Java: Maps and Collections, Exceptions, Streams, lambda-functions, etc.  * spring Boot, Spring MVC, SQL / JDBC / Hibernate - in other words CRUD-essentials  * experience in concurrent programming and basic performance optimization strategies: Queues, Threads, Executors, etc.  * desire to write, optimize, document, maintain code and thoroughly cover it with tests  * willingness and energy to take your ideas all the way from proof of concept to production-proof code  * general responsibility and result-oriented mindset  * desire to achieve goals as a team, willingness to help colleagues and ability to give/take constructive feedback  * English language B2 and higher to be able to communicate with the team and client**Nice to haves:**  * experience with blockchain technology or media streaming  * fundamentals of Linux knowledge  * experience with cloud platforms (AWS / GCP / Azure)"
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": false,
+        "name": "Middle/Senior Java Software Engineer (NFT Marketplace)",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 1,
+            "name": "Москва",
+            "path": ".113.232.1."
+        },
+        "accept_temporary": false,
+        "metallic": "standard",
+        "code": "REF376H",
+        "creation_site": "hh.ru",
+        "creation_site_id": 1,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1643617430,
+            "$": "2022-01-31T11:23:50.619+03:00"
+        },
+        "creation_time": "2022-01-10T15:01:37.646+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 93950298,
+            "manager_id": 6002521,
+            "user_id": 71811768,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": false,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/50876121",
+            "mobile": "https://m.hh.ru/vacancy/50876121"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Knowledge of algorithms and data structures. Solid knowledge of Core Java: Maps and Collections, Exceptions, Streams, lambda-functions, etc. ",
+            "resp": "Develop features in one or several components: media server, user portal, blockchain & payments integration, etc. Write fast and reliable unit...",
+            "cond": "The order may vary a bit if you prefer TDD, but you get the idea.",
+            "skill": null,
+            "desc": null
+        },
+        "id": 50876121,
+        "url": "https://hh.ru/vacancy/50876121",
+        "salary": null,
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "structure_name": "52729",
+            "state": "APPROVED",
+            "id": 52729,
+            "name": "Devexperts",
+            "visible_name": "Devexperts",
+            "main_employer_id": 52729,
+            "badges": {
+                "badge": [
+                    {
+                        "type": "employer-hh-rating",
+                        "description": "Топ-100 Рейтинга работодателей России (средние компании)",
+                        "url": "https://rating.hh.ru/history/rating2020"
+                    }
+                ]
+            }
+        },
+        "published_at": "2022-01-31T11:23:50.599+03:00",
+        "schedule": {
+            "id": "REMOTE"
+        },
+        "counters": {
+            "responses": 5
+        },
+        "key_skills": null,
+        "description": "Devexperts has been working for nearly two decades consulting and developingfor the financial industry. We solve complex technological challenges facingthe most well-respected financial institutions worldwide.By becoming a part of Devexperts, you’ll become a part of a company thatfosters self-improvement and actively seeks out-of-the-box ideas.Our teamswork together to create the next generation of financial software solutions.We welcome all candidates who believe, as we do, that innovation is groundedin education.We are looking for the Java backend developer to fill the open position in ourNFT Marketplace project: a platform that combines live-streaming, blockchaintechnology and trading concepts together to take interactions between creatorsand their patrons to the next level. Think Twitch + Patreon + Rarible kind ofthing.Your main responsibility will be to bring product ideas to life, primarily bydoing _software development_ :  1. find a problem to solve  2. come up with an impressive solution that can scale and evolve gracefully  3. develop features in one or several components: media server, user portal, blockchain & payments integration, etc  4. write fast and reliable unit tests  5. pass code review, merge and release it  6. collect feedback  7. repeatThe order may vary a bit if you prefer TDD, but you get the idea.**Required skills:**  * knowledge of algorithms and data structures  * solid knowledge of Core Java: Maps and Collections, Exceptions, Streams, lambda-functions, etc.  * spring Boot, Spring MVC, SQL / JDBC / Hibernate - in other words CRUD-essentials  * experience in concurrent programming and basic performance optimization strategies: Queues, Threads, Executors, etc.  * desire to write, optimize, document, maintain code and thoroughly cover it with tests  * willingness and energy to take your ideas all the way from proof of concept to production-proof code  * general responsibility and result-oriented mindset  * desire to achieve goals as a team, willingness to help colleagues and ability to give/take constructive feedback  * English language B2 and higher to be able to communicate with the team and client**Nice to haves:**  * experience with blockchain technology or media streaming  * fundamentals of Linux knowledge  * experience with cloud platforms (AWS / GCP / Azure)"
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": true,
+        "name": "IT Sales Representative (worldwide)",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 1,
+            "name": "Москва",
+            "path": ".113.232.1."
+        },
+        "accept_temporary": false,
+        "metallic": "standard",
+        "creation_site": "hh.ru",
+        "creation_site_id": 1,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1643638975,
+            "$": "2022-01-31T17:22:55.156+03:00"
+        },
+        "creation_time": "2022-01-28T15:24:19.446+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 110366831,
+            "manager_id": 7625463,
+            "user_id": 88177464,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "user_test_id": 176484,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/51901313",
+            "mobile": "https://m.hh.ru/vacancy/51901313"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {
+                "language": [
+                    {
+                        "id": 57,
+                        "degree": "b2"
+                    }
+                ]
+            }
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Has a strong understanding of IT product development. Has 2 years of experience in B2B sales in international...",
+            "resp": "Generating sales within your region. Up/Cross selling. Providing forecasts and account opportunity as needed. Creating a client base, maintaining...",
+            "cond": null,
+            "skill": "Английский язык, Sales Skills, Business Development",
+            "desc": null
+        },
+        "id": 51901313,
+        "url": "https://hh.ru/vacancy/51901313",
+        "salary": null,
+        "contacts": {
+            "email": "anastasia.zolotova@haiku.dev",
+            "fio": "Золотова Анастасия",
+            "phones": {
+                "phones": [
+                    {
+                        "city": "985",
+                        "country": "7",
+                        "number": "6958862"
+                    }
+                ]
+            }
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 5488314,
+            "name": "Haiku Dev",
+            "visible_name": "Haiku Dev",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/900932.jpg"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/4044414.jpeg"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/4044415.jpeg"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/4044415.jpeg"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/4044416.jpeg"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/4044416.jpeg"
+                    }
+                ]
+            }
+        },
+        "published_at": "2022-01-28T15:24:19.446+03:00",
+        "schedule": {
+            "id": "REMOTE"
+        },
+        "counters": {
+            "responses": 43
+        },
+        "key_skills": [
+            "Английский — B2 — Средне-продвинутый",
+            "Английский язык",
+            "Sales Skills",
+            "Business Development",
+            "IT Sales"
+        ],
+        "description": "Hi, there!  We are Haiku Dev - young, but fast developing IT company that builds corporatestartups and provides such services as Product Development & Launch,Consulting & Education.  Our core expertise is a full cycle product development in FinTech, Blockchainand EdTech.  We are allready covering CIS region and recently we started to make steps intothe global market.That’s why we are looking for a **Sales Representative**that has experience working with any of the following regions: Americas,Europe, Asia-Pacific, Middle East & Africa.**Our perfect candidate:**  * **Has a strong understanding of IT product development;**  * Has 2+ years of experience in B2B sales in international companies;  * Works or used to work worldwide (any other countries except CIS);  * Has a great experience in business development on the assigned territory.  * Has upper intermediate English level (B2+), any other foreign languages will be a plus;  * Can create appealing and easy to understand presentations for clients;  **Your main tasks will be:**  * Generating sales within your region;  * Up/Cross selling;  * Providing forecasts and account opportunity as needed  * Creating a client base, maintaining of a CRM;  * Participating in the development of the sales department.**We are also value soft skills:**  * Growth-orientated and critical mindset. Self-management skills;  * Ability to find approach to different types of persons;  * Ability to work independently;  * Be a high-energy, motivated self-starter;  * Exceptional verbal communication skills and ability to relay information to potential customers.  **What do we offer:**  * Employment according to the Labor Code of the Russian Federation, “white” salary;  * Extensive opportunities for professional growth and career development;  * Solid team, lots of support and fun-filled corporate events;  * Completely remote job. We also have a cosy office in St. Petersburg you can work from. Fruits & snacks and a good company comes with it;  * Medical insurance policy/medical compensation;  * Reimbursement of costs on fitness/languages/hobbies;  * Compensation of educational courses;  * Anime & Yandex+ subscriptions;  * Corporate discounts for employees (we are using BestBenefits service which provides us with discounts for restaurants, sports, entertainments etc.);  * Referral program."
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": true,
+        "name": "Самурай IT-Recruiter",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 13,
+            "name": "Армения",
+            "path": ".1001.13."
+        },
+        "accept_temporary": true,
+        "metallic": "standard",
+        "creation_site": "hh.ru",
+        "creation_site_id": 1,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1643394528,
+            "$": "2022-01-28T21:28:48.357+03:00"
+        },
+        "creation_time": "2022-01-27T00:20:08.182+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 67262977,
+            "manager_id": 4026551,
+            "user_id": 45167776,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "user_test_id": 160551,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/51820048",
+            "mobile": "https://m.hh.ru/vacancy/51820048"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {
+                "language": [
+                    {
+                        "id": 57,
+                        "degree": "c1"
+                    }
+                ]
+            }
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {
+                "working_time_interval": [
+                    "FROM_FOUR_TO_SIX_HOURS_IN_A_DAY"
+                ]
+            }
+        ],
+        "working_time_modes": [
+            {
+                "working_time_mode": [
+                    "START_AFTER_SIXTEEN"
+                ]
+            }
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Большой пул разноплановых проектов для работы, все в IT: стартапы и 20 лет на рынке; блокчейн, инвестиции, реклама, недвижимость; AI...",
+            "resp": "Большое влияние на результат (предлагать решения и изменения профиля клиенту, определять как мы работаем с брендом клиента, ходить на интервью...",
+            "cond": "100% удаленка всегда и везде. Часы работы не важны, важно delivery. — Камерная атмосфера, коллективные брейнштурмы, работа месячными спринтами, и ретроспективы. — ",
+            "skill": "Рекрутмент, IT Recruitment",
+            "desc": null
+        },
+        "id": 51820048,
+        "url": "https://hh.ru/vacancy/51820048",
+        "salary": {
+            "from": 2200,
+            "to": 5300,
+            "gross": false,
+            "currency": "USD"
+        },
+        "contacts": {
+            "email": "anya@anchous-drive.com",
+            "fio": "Литвина Аня",
+            "phones": {
+                "phones": [
+                    {
+                        "city": "470",
+                        "country": "1",
+                        "number": "2637020",
+                        "comment": "Telegram @anchousdrive / Whatsapp  "
+                    }
+                ]
+            }
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "AGENCY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 3239351,
+            "name": "Anchous Drive Recruitment",
+            "visible_name": "Anchous Drive Recruitment",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/495741.png"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/2424716.png"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/2424717.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/2424717.png"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/2424718.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/2424718.png"
+                    }
+                ]
+            }
+        },
+        "published_at": "2022-01-27T00:20:08.182+03:00",
+        "schedule": {
+            "id": "REMOTE"
+        },
+        "counters": {
+            "responses": 5
+        },
+        "key_skills": [
+            "Английский — C1 — Продвинутый",
+            "Рекрутмент",
+            "IT Recruitment",
+            "Оценка IT-компетенций",
+            "Оценка софт-скиллз"
+        ],
+        "description": "Привет!  * Ты опытный IT рекрутер, с 50+ закрытых позиций?  * Тебе важен результат, и ты умеешь его создавать?  * Погружаешься в специфику вакансий / технологий, вместо механической работы по бумажке?  * Знаешь как функционируют IT проекты, ходишь на технические интервью в компании или к заказчику, или хочешь это делать?  * Ты думаешь про результат и хочешь работать с клиентами, действительно заинтересованными в найме и поиске решений?Если ты кивнул(а) больше 3х раз, то**Для тебя:**— Большой пул разноплановых проектов для работы, все в IT: стартапы и 20 летна рынке; блокчейн, инвестиции, реклама, недвижимость; AI, заботливые B2Cпродукты, etc.  * Большое влияние на результат (предлагать решения и изменения профиля клиенту, определять как мы работаем с брендом клиента, ходить на интервью к заказчику, отказываться от клиента если не работают изменения.— Европейские, американские, российские mission-driven продуктовые компании истартапы.— 90% эксклюзивных проектов (ищем только мы) и 99% с контактом напрямую снанимающим менеджером (CTO или тимлидами).— Неограниченный доступ к нашему опытному коллективному мозгу, базе знаний,базе кандидатов и нетворку коллег.— _(Если английский позволяет:)_ Возможность работать с европейскимипроектами: поиск в Европе, англоязычные клиенты и кандидаты. Это не критично,клиенты и кандидаты в РФ у нас тоже есть.— Заинтересованные в найме клиенты с которыми мы строим близкие отношения дляобщего результата: \"максимум 3 дня на решение по кандидатам\" с клиентами идоступ к интервью на клиентские интервью.— 100% удаленка всегда и везде. Часы работы не важны, важно delivery.**Что важно в рекрутере и твоей работе с нами:**  * Результат. Видеть его, предлагать решения и оптимизацию поисков, условий или профилей для того чтобы сделать.  * Высокое качество работы на всех уровнях: с клиентом, с кандидатом, с командой, с вакансией. Глубокое вовлечение (CEO создает условия для этого, а том числе ограничивая уровень нагрузки).  * Теплые и близкие отношения с клиентом: выдерживать неформально деловой, открытый и экспертный уровень коммуникации, на равных с кандидатами и клиентами, создавая и укрепляя отношения.  * Выделять главное из большого пласта информации, анализировать. Задавать \"неудобные\" вопросы в первую очередь.  * Думать и инициировать оптимизацию.  * Брейштурмить: что важно кандидату? Чего не знает клиент? Как изменить какой-то процесс или условия в том числе на уровне компании-заказчика, чтобы решить задачу? Как передать адекватность команды клиента словами вакансии?  * Уметь зажигать себя и зажигать кандидатов: искать и находить \"точки продажи\" в вакансиях, матчить ценности кандидатов и компании.  * Высокий уровень эмоционального интеллекта / эмпатии. Чувствовать и соблюдать нюансы с нежными котиками.  * Желание погружаться и изучать. Если это про тебя, напиши слово \"Зебра\" в теме или тексте отклика, пожалуйста!  * Уверенность в себе, уважение к другим.  * Оптимизм и чувство юмора. Позитивный взгляд на вещи. Внимание, направленное на возможности, а не проблемы. (Ведь куда мы думаем, туда и попадаем, правда?)  * Слушать, слышать, анализировать, ретроспективить, оптимизировать. Постоянно улучшать качество кандидатов, получая обратную связь и выявляя скрытые потребности компании.     **Если у тебя есть опыт закрытия Blockchain, DeFi, Solidity, Трейдингвакансий – это наш первый приоритет и давай незамедлительно поговорим! Напишимне в ТГ @anchousdrive об этом, пожалуйста!****Что за Анчоусы?**Мы бутиковое агентство IT-рекрутинга с высокой планкой качества кандидатов икоммуникаций, закрывающее в основном IT вакансии или около (аналитиков,Product и Project менеджеров, например) для IT компаний.— Камерная атмосфера, коллективные брейнштурмы, работа месячными спринтами, иретроспективы.— Ограниченное количество вакансий для качественной работы и закрытия (5-10-15– ты выбираешь, сколько для тебя комфортно для глубоко погружения).— Фокус на твой результат и качество кандидатов / взаимопонимания с клиентом,а не приложенные время и усилия.— Работа с mission-driven продуктовыми компаниями в России, Европы, США и повсему миру.— Работа как будто «изнутри» компании, возможность присутствовать на беседахкандидата с заказчиком, прямой контакт с нанимающим менеджером. И при этомразнообразие проектов.— Оплаченный доступ ко всем нужным ресурсам и внутренняя база знаний икандидатов.— Честно и открыто анализируем свой опыт для поиска зон роста.Экспериментируем, ретроспективим, делимся опытом с командой, вместе решаемсложные кейсы.— Мы не работаем с банками, большими бюрократическими компаниями истандартными аутсорсерами, где нет идеи, нет продукта или решения принимаютдолго.— Возможность применить ваш рекрутерский (и человеческий) талант самым лучшимобразом и получить честное вознаграждение за него.**Наши клиенты:**Стартапы и успешные зарабатывающие проекты, разных размеров и сложности,которым мы гарантируем сбор команд и экспертную поддержку. Они доверяют,прислушиваются, и заинтересованы в найме. Мы, в свою очередь, собеседуем,оцениваем и выбираем клиентов тоже.Например, 2 года до этого момента мы работали только с компаниями, пришедшимик нам по рекомендации или предыдущему позитивному опыту работы и/или**собеседования(!)**.**Вознаграждение и условия:**— **Деньги:** прозрачный % от гонорара агентства с повышающим коэффициентом.— Мы готовы предлагать оклад при стабильном результате показанном наиспытательном сроке.— Постоянный контракт с американской компанией.— Портфель ограничен по количеству вакансий в соответствии с твоим комфортнымтемпом (5-10-15), а сложность варьируется от твоего уровня (Middle / Senior).— Позицию руководителя группы рекрутеров и менторство мы обсуждаем отдельно ипри желании.— Мы работаем только над вакансиями, которые нам нравятся, отвечают рынку иреалистичны.— Рекрутеры занимаются рекрутментом, задач продаж у рекрутеров нет.— Подключаем тебе ресечеров и аналитиков, если хочешь.— Все нужные тебе доступы, базы и ресурсы, разумеется, оплачиваются.— База кандидатов, база знаний + проф коучинг и система трекинга проектов.**Welcome!**  * Напиши мне!  * Договориться о времени для видео-звонка со мной или руководителем рекрутмента.  * Договориться о времени для второй встречи.  * Получить оффер.  * Работать вместе долго и счастливо, процветать :)**Напиши мне (Аня, CEO) в Телеграм** или указанную почту **, когда ты готов(а)на видео-встречу в ближайшую неделю?**"
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": true,
+        "name": "Самурай IT-Recruiter",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 1002,
+            "name": "Минск",
+            "path": ".16.1002."
+        },
+        "accept_temporary": true,
+        "metallic": "standard",
+        "creation_site": "hh.ru",
+        "creation_site_id": 1,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1643394571,
+            "$": "2022-01-28T21:29:31.799+03:00"
+        },
+        "creation_time": "2022-01-27T00:20:08.182+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 67262977,
+            "manager_id": 4026551,
+            "user_id": 45167776,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "user_test_id": 160551,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/51820049",
+            "mobile": "https://m.hh.ru/vacancy/51820049"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {
+                "language": [
+                    {
+                        "id": 57,
+                        "degree": "c1"
+                    }
+                ]
+            }
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {
+                "working_time_interval": [
+                    "FROM_FOUR_TO_SIX_HOURS_IN_A_DAY"
+                ]
+            }
+        ],
+        "working_time_modes": [
+            {
+                "working_time_mode": [
+                    "START_AFTER_SIXTEEN"
+                ]
+            }
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Большой пул разноплановых проектов для работы, все в IT: стартапы и 20 лет на рынке; блокчейн, инвестиции, реклама, недвижимость; AI...",
+            "resp": "Большое влияние на результат (предлагать решения и изменения профиля клиенту, определять как мы работаем с брендом клиента, ходить на интервью...",
+            "cond": "100% удаленка всегда и везде. Часы работы не важны, важно delivery. Что за Анчоусы? — Камерная атмосфера, коллективные брейнштурмы, работа месячными...",
+            "skill": "Рекрутмент, IT Recruitment",
+            "desc": null
+        },
+        "id": 51820049,
+        "url": "https://hh.ru/vacancy/51820049",
+        "salary": {
+            "from": 2200,
+            "to": 5300,
+            "gross": false,
+            "currency": "USD"
+        },
+        "contacts": {
+            "email": "anya@anchous-drive.com",
+            "fio": "Литвина Аня",
+            "phones": {
+                "phones": [
+                    {
+                        "city": "470",
+                        "country": "1",
+                        "number": "2637020",
+                        "comment": "Telegram @anchousdrive / Whatsapp  "
+                    }
+                ]
+            }
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "AGENCY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 3239351,
+            "name": "Anchous Drive Recruitment",
+            "visible_name": "Anchous Drive Recruitment",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/495741.png"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/2424716.png"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/2424717.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/2424717.png"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/2424718.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/2424718.png"
+                    }
+                ]
+            }
+        },
+        "published_at": "2022-01-27T00:20:08.182+03:00",
+        "schedule": {
+            "id": "REMOTE"
+        },
+        "counters": {
+            "responses": 4
+        },
+        "key_skills": [
+            "Английский — C1 — Продвинутый",
+            "Рекрутмент",
+            "IT Recruitment",
+            "Оценка IT-компетенций",
+            "Оценка софт-скиллз"
+        ],
+        "description": "Привет!  * Ты опытный IT рекрутер, с 50+ закрытых позиций?  * Тебе важен результат, и ты умеешь его создавать?  * Погружаешься в специфику вакансий / технологий, вместо механической работы по бумажке?  * Знаешь как функционируют IT проекты, ходишь на технические интервью в компании или к заказчику, или хочешь это делать?  * Ты думаешь про результат и хочешь работать с клиентами, действительно заинтересованными в найме и поиске решений?Если ты кивнул(а) больше 3х раз, то**Для тебя:**— Большой пул разноплановых проектов для работы, все в IT: стартапы и 20 летна рынке; блокчейн, инвестиции, реклама, недвижимость; AI, заботливые B2Cпродукты, etc.  * Большое влияние на результат (предлагать решения и изменения профиля клиенту, определять как мы работаем с брендом клиента, ходить на интервью к заказчику, отказываться от клиента если не работают изменения.— Европейские, американские, российские mission-driven продуктовые компании истартапы.— 90% эксклюзивных проектов (ищем только мы) и 99% с контактом напрямую снанимающим менеджером (CTO или тимлидами).— Неограниченный доступ к нашему опытному коллективному мозгу, базе знаний,базе кандидатов и нетворку коллег.— _(Если английский позволяет:)_ Возможность работать с европейскимипроектами: поиск в Европе, англоязычные клиенты и кандидаты. Это не критично,клиенты и кандидаты в РФ у нас тоже есть.— Заинтересованные в найме клиенты с которыми мы строим близкие отношения дляобщего результата: \"максимум 3 дня на решение по кандидатам\" с клиентами идоступ к интервью на клиентские интервью.— 100% удаленка всегда и везде. Часы работы не важны, важно delivery.     **Если у тебя есть опыт закрытия Blockchain, DeFi, Solidity, Трейдингвакансий – это наш первый приоритет и давай незамедлительно поговорим! Напишимне в ТГ @anchousdrive об этом, пожалуйста!****Что важно в рекрутере и твоей работе с нами:**  * Результат. Видеть его, предлагать решения и оптимизацию поисков, условий или профилей для того чтобы сделать.  * Высокое качество работы на всех уровнях: с клиентом, с кандидатом, с командой, с вакансией. Глубокое вовлечение (CEO создает условия для этого, а том числе ограничивая уровень нагрузки).  * Теплые и близкие отношения с клиентом: выдерживать неформально деловой, открытый и экспертный уровень коммуникации, на равных с кандидатами и клиентами, создавая и укрепляя отношения.  * Выделять главное из большого пласта информации, анализировать. Задавать \"неудобные\" вопросы в первую очередь.  * Думать и инициировать оптимизацию.  * Брейштурмить: что важно кандидату? Чего не знает клиент? Как изменить какой-то процесс или условия в том числе на уровне компании-заказчика, чтобы решить задачу? Как передать адекватность команды клиента словами вакансии?  * Уметь зажигать себя и зажигать кандидатов: искать и находить \"точки продажи\" в вакансиях, матчить ценности кандидатов и компании.  * Высокий уровень эмоционального интеллекта / эмпатии. Чувствовать и соблюдать нюансы с нежными котиками.  * Желание погружаться и изучать. Если это про тебя, напиши слово \"Зебра\" в теме или тексте отклика, пожалуйста!  * Уверенность в себе, уважение к другим.  * Оптимизм и чувство юмора. Позитивный взгляд на вещи. Внимание, направленное на возможности, а не проблемы. (Ведь куда мы думаем, туда и попадаем, правда?)  * Слушать, слышать, анализировать, ретроспективить, оптимизировать. Постоянно улучшать качество кандидатов, получая обратную связь и выявляя скрытые потребности компании.**Что за Анчоусы?**Мы бутиковое агентство IT-рекрутинга с высокой планкой качества кандидатов икоммуникаций, закрывающее в основном IT вакансии или около (аналитиков,Product и Project менеджеров, например) для IT компаний.— Камерная атмосфера, коллективные брейнштурмы, работа месячными спринтами, иретроспективы.— Ограниченное количество вакансий для качественной работы и закрытия (5-10-15– ты выбираешь, сколько для тебя комфортно для глубоко погружения).— Фокус на твой результат и качество кандидатов / взаимопонимания с клиентом,а не приложенные время и усилия.— Работа с mission-driven продуктовыми компаниями в России, Европы, США и повсему миру.— Работа как будто «изнутри» компании, возможность присутствовать на беседахкандидата с заказчиком, прямой контакт с нанимающим менеджером. И при этомразнообразие проектов.— Оплаченный доступ ко всем нужным ресурсам и внутренняя база знаний икандидатов.— Честно и открыто анализируем свой опыт для поиска зон роста.Экспериментируем, ретроспективим, делимся опытом с командой, вместе решаемсложные кейсы.— Мы не работаем с банками, большими бюрократическими компаниями истандартными аутсорсерами, где нет идеи, нет продукта или решения принимаютдолго.— Возможность применить ваш рекрутерский (и человеческий) талант самым лучшимобразом и получить честное вознаграждение за него.**Наши клиенты:**Стартапы и успешные зарабатывающие проекты, разных размеров и сложности,которым мы гарантируем сбор команд и экспертную поддержку. Они доверяют,прислушиваются, и заинтересованы в найме. Мы, в свою очередь, собеседуем,оцениваем и выбираем клиентов тоже.Например, 2 года до этого момента мы работали только с компаниями, пришедшимик нам по рекомендации или предыдущему позитивному опыту работы и/или**собеседования(!)**.**Вознаграждение и условия:**— **Деньги:** прозрачный % от гонорара агентства с повышающим коэффициентом.— Мы готовы предлагать оклад при стабильном результате показанном наиспытательном сроке.— Постоянный контракт с американской компанией.— Портфель ограничен по количеству вакансий в соответствии с твоим комфортнымтемпом (5-10-15), а сложность варьируется от твоего уровня (Middle / Senior).— Позицию руководителя группы рекрутеров и менторство мы обсуждаем отдельно ипри желании.— Мы работаем только над вакансиями, которые нам нравятся, отвечают рынку иреалистичны.— Рекрутеры занимаются рекрутментом, задач продаж у рекрутеров нет.— Подключаем тебе ресечеров и аналитиков, если хочешь.— Все нужные тебе доступы, базы и ресурсы, разумеется, оплачиваются.— База кандидатов, база знаний + проф коучинг и система трекинга проектов.**Welcome!**  * Напиши мне!  * Договориться о времени для видео-звонка со мной или руководителем рекрутмента.  * Договориться о времени для второй встречи.  * Получить оффер.  * Работать вместе долго и счастливо, процветать :)**Напиши мне (Аня, CEO) в Телеграм** или указанную почту **, когда ты готов(а)на видео-встречу в ближайшую неделю?**"
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": true,
+        "name": "Самурай IT-Recruiter",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 2,
+            "name": "Санкт-Петербург",
+            "path": ".113.231.2."
+        },
+        "accept_temporary": true,
+        "metallic": "standard",
+        "creation_site": "hh.ru",
+        "creation_site_id": 1,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1643394606,
+            "$": "2022-01-28T21:30:06.243+03:00"
+        },
+        "creation_time": "2022-01-18T01:54:07.856+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 67262977,
+            "manager_id": 4026551,
+            "user_id": 45167776,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "user_test_id": 160551,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/51229899",
+            "mobile": "https://m.hh.ru/vacancy/51229899"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {
+                "language": [
+                    {
+                        "id": 57,
+                        "degree": "c1"
+                    }
+                ]
+            }
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {
+                "working_time_interval": [
+                    "FROM_FOUR_TO_SIX_HOURS_IN_A_DAY"
+                ]
+            }
+        ],
+        "working_time_modes": [
+            {
+                "working_time_mode": [
+                    "START_AFTER_SIXTEEN"
+                ]
+            }
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Большой пул разноплановых проектов для работы, все в IT: стартапы и 20 лет на рынке; блокчейн, инвестиции, реклама, недвижимость; AI...",
+            "resp": "Большое влияние на результат (предлагать решения и изменения профиля клиенту, определять как мы работаем с брендом клиента, ходить на интервью...",
+            "cond": "100% удаленка всегда и везде. Часы работы не важны, важно delivery. Что за Анчоусы? — Камерная атмосфера, коллективные брейнштурмы, работа месячными...",
+            "skill": "Рекрутмент, IT Recruitment",
+            "desc": null
+        },
+        "id": 51229899,
+        "url": "https://hh.ru/vacancy/51229899",
+        "salary": {
+            "from": 2200,
+            "to": 5300,
+            "gross": false,
+            "currency": "USD"
+        },
+        "contacts": {
+            "email": "anya@anchous-drive.com",
+            "fio": "Литвина Аня",
+            "phones": {
+                "phones": [
+                    {
+                        "city": "470",
+                        "country": "1",
+                        "number": "2637020",
+                        "comment": "No calls, Telegram @anchousdrive / Whatsapp only "
+                    }
+                ]
+            }
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "AGENCY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 3239351,
+            "name": "Anchous Drive Recruitment",
+            "visible_name": "Anchous Drive Recruitment",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/495741.png"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/2424716.png"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/2424717.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/2424717.png"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/2424718.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/2424718.png"
+                    }
+                ]
+            }
+        },
+        "published_at": "2022-01-18T01:54:07.856+03:00",
+        "schedule": {
+            "id": "REMOTE"
+        },
+        "counters": {
+            "responses": 6
+        },
+        "key_skills": [
+            "Английский — C1 — Продвинутый",
+            "Рекрутмент",
+            "IT Recruitment",
+            "Оценка IT-компетенций",
+            "Оценка софт-скиллз"
+        ],
+        "description": "Привет!  * Ты опытный IT рекрутер, с 50+ закрытых позиций?  * Тебе важен результат, и ты умеешь его создавать?  * Погружаешься в специфику вакансий / технологий, вместо механической работы по бумажке?  * Знаешь как функционируют IT проекты, ходишь на технические интервью в компании или к заказчику, или хочешь это делать?  * Ты думаешь про результат и хочешь работать с клиентами, действительно заинтересованными в найме и поиске решений?Если ты кивнул(а) больше 3х раз, то**Для тебя:**— Большой пул разноплановых проектов для работы, все в IT: стартапы и 20 летна рынке; блокчейн, инвестиции, реклама, недвижимость; AI, заботливые B2Cпродукты, etc.  * Большое влияние на результат (предлагать решения и изменения профиля клиенту, определять как мы работаем с брендом клиента, ходить на интервью к заказчику, отказываться от клиента если не работают изменения.— Европейские, американские, российские mission-driven продуктовые компании истартапы.— 90% эксклюзивных проектов (ищем только мы) и 99% с контактом напрямую снанимающим менеджером (CTO или тимлидами).— Неограниченный доступ к нашему опытному коллективному мозгу, базе знаний,базе кандидатов и нетворку коллег.— _(Если английский позволяет:)_ Возможность работать с европейскимипроектами: поиск в Европе, англоязычные клиенты и кандидаты. Это не критично,клиенты и кандидаты в РФ у нас тоже есть.— Заинтересованные в найме клиенты с которыми мы строим близкие отношения дляобщего результата: \"максимум 3 дня на решение по кандидатам\" с клиентами идоступ к интервью на клиентские интервью.— 100% удаленка всегда и везде. Часы работы не важны, важно delivery.  **Если у тебя есть опыт закрытия Blockchain, DeFi, Solidity, Трейдинг вакансий– это наш первый приоритет и давай незамедлительно поговорим! Напиши мне в ТГ@anchousdrive об этом, пожалуйста!****Что важно в рекрутере и твоей работе с нами:**  * Результат. Видеть его, предлагать решения и оптимизацию поисков, условий или профилей для того чтобы сделать.  * Высокое качество работы на всех уровнях: с клиентом, с кандидатом, с командой, с вакансией. Глубокое вовлечение (CEO создает условия для этого, а том числе ограничивая уровень нагрузки).  * Теплые и близкие отношения с клиентом: выдерживать неформально деловой, открытый и экспертный уровень коммуникации, на равных с кандидатами и клиентами, создавая и укрепляя отношения.  * Выделять главное из большого пласта информации, анализировать. Задавать \"неудобные\" вопросы в первую очередь.  * Думать и инициировать оптимизацию.  * Брейштурмить: что важно кандидату? Чего не знает клиент? Как изменить какой-то процесс или условия в том числе на уровне компании-заказчика, чтобы решить задачу? Как передать адекватность команды клиента словами вакансии?  * Уметь зажигать себя и зажигать кандидатов: искать и находить \"точки продажи\" в вакансиях, матчить ценности кандидатов и компании.  * Высокий уровень эмоционального интеллекта / эмпатии. Чувствовать и соблюдать нюансы с нежными котиками.  * Желание погружаться и изучать. Если это про тебя, напиши слово \"Зебра\" в теме или тексте отклика, пожалуйста!  * Уверенность в себе, уважение к другим.  * Оптимизм и чувство юмора. Позитивный взгляд на вещи. Внимание, направленное на возможности, а не проблемы. (Ведь куда мы думаем, туда и попадаем, правда?)  * Слушать, слышать, анализировать, ретроспективить, оптимизировать. Постоянно улучшать качество кандидатов, получая обратную связь и выявляя скрытые потребности компании.**Что за Анчоусы?**Мы бутиковое агентство IT-рекрутинга с высокой планкой качества кандидатов икоммуникаций, закрывающее в основном IT вакансии или около (аналитиков,Product и Project менеджеров, например) для IT компаний.— Камерная атмосфера, коллективные брейнштурмы, работа месячными спринтами, иретроспективы.— Ограниченное количество вакансий для качественной работы и закрытия (5-10-15– ты выбираешь, сколько для тебя комфортно для глубоко погружения).— Фокус на твой результат и качество кандидатов / взаимопонимания с клиентом,а не приложенные время и усилия.— Работа с mission-driven продуктовыми компаниями в России, Европы, США и повсему миру.— Работа как будто «изнутри» компании, возможность присутствовать на беседахкандидата с заказчиком, прямой контакт с нанимающим менеджером. И при этомразнообразие проектов.— Оплаченный доступ ко всем нужным ресурсам и внутренняя база знаний икандидатов.— Честно и открыто анализируем свой опыт для поиска зон роста.Экспериментируем, рестроспективим, делимся опытом с командой, вместе решаемсложные кейсы.— Мы не работаем с банками, большими бюрократическими компаниями истандартными аутсорсерами, где нет идеи, нет продукта или решения принимаютдолго.— Возможность применить ваш рекрутерский (и человеческий) талант самым лучшимобразом и получить честное вознаграждение за него.**Наши клиенты:**Стартапы и успешные зарабатывающие проекты, разных размеров и сложности,которым мы гарантируем сбор команд и экспертную поддержку. Они доверяют,прислушиваются, и заинтересованы в найме. Мы, в свою очередь, собеседуем,оцениваем и выбираем клиентов тоже.Например, 2 года до этого момента мы работали только с компаниями, пришедшимик нам по рекомендации или предыдущему позитивному опыту работы и/или**собеседования(!)**.**Вознаграждение и условия:**— **Деньги:** прозрачный % от гонорара агентства с повышающим коэффициентом.— Мы готовы предлагать оклад при стабильном результате показанном наиспытательном сроке.— Постоянный контракт с американской компанией.— Портфель ограничен по количеству вакансий в соответствии с твоим комфортнымтемпом (5-10-15), а сложность варьируется от твоего уровня (Middle / Senior).— Позицию руководителя группы рекрутеров и менторство мы обсуждаем отдельно ипри желании.— Мы работаем только над вакансиями, которые нам нравятся, отвечают рынку иреалистичны.— Рекрутеры занимаются рекрутментом, задач продаж у рекрутеров нет.— Подключаем тебе ресечеров и аналитиков, если хочешь.— Все нужные тебе доступы, базы и ресурсы, разумеется, оплачиваются.— База кандидатов, база знаний + проф коучинг и система трекинга проектов.**Welcome!**  * Напиши мне!  * Договориться о времени для видео-звонка со мной или руководителем рекрутмента.  * Договориться о времени для второй встречи.  * Получить оффер.  * Работать вместе долго и счастливо, процветать :)**Напиши мне (Аня, CEO) в Телеграм** или указанную почту **, когда ты готов(а)на видео-встречу в ближайшую неделю?**"
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": true,
+        "name": "Junior Backend developer (Node.js/Nest.js)",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 2,
+            "name": "Санкт-Петербург",
+            "path": ".113.231.2."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 7082232,
+            "disabled": false,
+            "city": "Санкт-Петербург",
+            "street": "Измайловский проспект",
+            "building": "15Д",
+            "display_name": "Санкт-Петербург, Измайловский проспект, 15Д",
+            "map_data": "{\"points\":{\"center\":{\"lat\":59.91349411199453,\"lng\":30.30673451347438,\"zoom\":17},\"marker\":{\"lat\":59.91340271270341,\"lng\":30.307090576720913}}}",
+            "marker": {
+                "lat": 59.91340271270341,
+                "lng": 30.307090576720913
+            },
+            "manager": {
+                "id": 6540182
+            }
+        },
+        "metallic": "standard",
+        "creation_site": "spb.hh.ru",
+        "creation_site_id": 7,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1643841404,
+            "$": "2022-02-03T01:36:44.872+03:00"
+        },
+        "creation_time": "2022-01-10T14:11:46.113+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 99813016,
+            "manager_id": 6540182,
+            "user_id": 77657265,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": false,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/50871918",
+            "mobile": "https://m.hh.ru/vacancy/50871918"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Понимает архитектуру web-приложений. Имеет SOLID знания основных алгоритмов и структур данных, реляционных БД, может реализовать эти знания на практике. ",
+            "resp": "Тимлид-наставник, который поможет разобраться в архитектуре приложений, разложит сложную задачу на простые составляющие. Design & code review, работа по ТЗ. ",
+            "cond": "Через год-полтора ты вырастешь до middle разработчика. Уровень бюрократии сведен к 0, только Redmine и четкие технические задачи. ",
+            "skill": "SQL, JavaScript, Git, Node.js, C#, PostgreSQL",
+            "desc": null
+        },
+        "id": 50871918,
+        "url": "https://hh.ru/vacancy/50871918",
+        "salary": {
+            "from": 35000,
+            "to": 90000,
+            "gross": false,
+            "currency": "RUR"
+        },
+        "contacts": {
+            "email": "rostov.k71@gmail.com",
+            "fio": "Савчук Константин Станиславович",
+            "phones": {
+                "phones": [
+                    {
+                        "city": "911",
+                        "country": "7",
+                        "number": "7943306"
+                    }
+                ]
+            }
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 5166243,
+            "name": "UNISTORY LLC",
+            "visible_name": "UNISTORY LLC",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/927435.JPG"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/4150301.jpeg"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/4150301.jpeg"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/4150299.jpeg"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/4150300.jpeg"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/4150300.jpeg"
+                    }
+                ]
+            }
+        },
+        "published_at": "2022-01-15T22:57:30.843+03:00",
+        "schedule": {
+            "id": "FULL_DAY"
+        },
+        "counters": {
+            "responses": 67
+        },
+        "key_skills": [
+            "SQL",
+            "JavaScript",
+            "Git",
+            "Node.js",
+            "C#",
+            "Blockchain",
+            "TypeScript",
+            "Nest.js",
+            "PostgreSQL"
+        ],
+        "description": "Наша команда находится в поисках амбициозного junior Backend developer,который горит всей душой за свое дело и готов быстро изучить большой объеминформации.Мы разрабатываем blockchain проекты, web/desktop приложения, сайты & CRMсистемы для клиентов со всего мира. Базируемся в СПб.**Наш идеальный кандидат:**  * Понимает архитектуру web-приложений;  * Имеет SOLID знания основных алгоритмов и структур данных, реляционных БД, может реализовать эти знания на практике;  * Имеет математическую и алгоритмическую подготовку: теория графов, методы оптимизации, статистика и теория вероятностей, оценка сложности алгоритмов;  * Может уверенно писать код на Node.js;  * Gонимает что такое ООП, как его использовать и может создавать диаграммы классов;  * Умеет писать запросы SQL;  * Умеет читать техническую документацию на англ**Будет плюсом при рассмотрении:**  * Наличие активного GitHub аккаунта;  * Наличие проектов на Typescript, nest.js или C#;  * Понимание устройства блокчейна и криптовалют;  * Участие в олимпиадах или хакатонах - большой плюс;  * Желание развиваться в Full-stack разработчика.**Что тебя ждет на работе:**  * Тимлид-наставник, который поможет разобраться в архитектуре приложений, разложит сложную задачу на простые составляющие;  * Design & code review, работа по ТЗ;  * Вовлеченность во все циклы проекта, в т.ч. при разработке ТЗ и дизайна;  * Прогрессирующий уровень задач.**Плюсы работы в компании:**  * Через год-полтора ты вырастешь до middle разработчика;  * Уровень бюрократии сведен к 0, только Redmine и четкие технические задачи;  * Возможность влиять на процессы в компании.**Условия работы:**  * ЗП 35-90к руб. на руки. 2 раза в месяц;  * Плавающий график 40ч в неделю: главное - результат;  * Минимум бюрократии;  * Офис в 10 мин. ходьбы от ст. м. Технологический институт;  * Возможность работать удаленно;  * Кофе, чай, фрукты и закуски в офисе;  * Оплачиваемый отпуск 28 дней в году;  * Оплачиваемые больничные;  * Молодой дружный коллектив.    Если вы полностью прочитали текст вакансии и соответствуете требованиям, тонапишите об этом в сопроводительном письме"
+    }
+]

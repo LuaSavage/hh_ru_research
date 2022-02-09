@@ -1,0 +1,1582 @@
+[
+    {
+        "response_letter_required": false,
+        "show_contact": false,
+        "name": "Программист-разработчик игр (Junior)",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 2,
+            "name": "Санкт-Петербург",
+            "path": ".113.231.2."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 6984352,
+            "disabled": false,
+            "metro_stations": {
+                "lat": 59.942577,
+                "lng": 30.278254,
+                "metro": [
+                    {
+                        "is_alias": false,
+                        "city_id": 2,
+                        "order": 3,
+                        "translit": "vasileostrovskaya",
+                        "id": 228,
+                        "lat": 59.942577,
+                        "line": {
+                            "translit": "nevsko_vasileostrovskaya",
+                            "city_id": 2,
+                            "id": 16,
+                            "name": "metroline.16",
+                            "color": "#009A49"
+                        },
+                        "lng": 30.278254,
+                        "name": "metro.228"
+                    }
+                ]
+            },
+            "city": "Санкт-Петербург",
+            "street": "18-я линия Васильевского острова",
+            "building": "29",
+            "display_name": "Санкт-Петербург, 18-я линия Васильевского острова, 29",
+            "map_data": "{\"points\":{\"center\":{\"lat\":59.93795301303298,\"lng\":30.265039932637258,\"zoom\":17},\"marker\":{\"lat\":59.937517,\"lng\":30.266137}}}",
+            "marker": {
+                "lat": 59.937517,
+                "lng": 30.266137
+            },
+            "manager": {
+                "id": 6482130
+            }
+        },
+        "metallic": "standard_plus",
+        "creation_site": "spb.hh.ru",
+        "creation_site_id": 7,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1644154678,
+            "$": "2022-02-06T16:37:58.206+03:00"
+        },
+        "creation_time": "2022-01-22T16:03:19.854+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 110605344,
+            "manager_id": 7639934,
+            "user_id": 88415443,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/51540882",
+            "mobile": "https://m.hh.ru/vacancy/51540882"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {
+                "language": [
+                    {
+                        "id": 57,
+                        "degree": "a2"
+                    }
+                ]
+            }
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "умели программировать хотя бы на одном из языков: C, C, Rust. - имели возможность и желание работать не менее 80 часов...",
+            "resp": "участвовать в полном цикле разработки и предлагать любые улучшения. Оплата производится не за количество проведённых за компьютером часов, а за...",
+            "cond": "получать справедливую оплату, соразмерную вашему вкладу. У нас возможна удалённая работа по любому удобному вам графику.",
+            "skill": "Информационные технологии, Разработка компьютерных Игр",
+            "desc": null
+        },
+        "id": 51540882,
+        "url": "https://hh.ru/vacancy/51540882",
+        "salary": {
+            "from": 75000,
+            "to": 150000,
+            "gross": false,
+            "currency": "RUR"
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 5122356,
+            "name": "ГравиЛинк",
+            "visible_name": "ГравиЛинк",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/3783311.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/3783311.png"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/3783312.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/3783312.png"
+                    },
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/835607.png"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/3783310.png"
+                    }
+                ]
+            },
+            "employer_organization_form_id": 0
+        },
+        "published_at": "2022-02-06T16:03:19.854+03:00",
+        "schedule": {
+            "id": "FLEXIBLE"
+        },
+        "counters": {
+            "responses": 386
+        },
+        "key_skills": [
+            "Английский — A2 — Элементарный",
+            "Информационные технологии",
+            "Разработка компьютерных Игр"
+        ],
+        "description": "Мы расширяем свою gamedev-команду и ищем заинтересованных программистов дляразработки компьютерных игр под различные платформы на нашем собственномязыке.**У нас вы получите возможность** :  \\- приобрести глубокие и разносторонние знания, познакомившись с множествомаспектов создания компьютерных игр  \\- работать в сильной команде над уникальными продуктами, которыми можногордиться  \\- изучать новые технологии и расти как специалист  \\- участвовать в полном цикле разработки и предлагать любые улучшения  \\- получать справедливую оплату, соразмерную вашему вкладу**Нам важно, чтобы вы** :  \\- имели базовые знания математики и информационных технологий  \\- умели программировать хотя бы на одном из языков: C, C++, Rust  \\- понимали, во что превращается ваш код, и как он работает на низком уровне  \\- не боялись сложностей и получали удовольствие от решения нестандартныхзадач  \\- имели возможность и желание работать не менее 80 часов в месяц**Мы обрадуемся** , если вы также имеете опыт/навыки работы с Unix, Android,базами данных, сетевыми протоколами, системами контроля версий, web-программирования, программирования для GPU (работы с шейдерами).У нас возможна удалённая работа по любому удобному вам графику.  Оплата производится не за количество проведённых за компьютером часов, а зазавершённые задачи. Все задачи оцениваются перед выполнением."
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": true,
+        "name": "Junior/Junior+ Rust Developer",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 1002,
+            "name": "Минск",
+            "path": ".16.1002."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 518221,
+            "disabled": false,
+            "metro_stations": {
+                "lat": 53.909519,
+                "lng": 27.495499,
+                "metro": [
+                    {
+                        "is_alias": false,
+                        "city_id": 1002,
+                        "order": 3,
+                        "translit": "pushkinskaya",
+                        "id": 419,
+                        "lat": 53.909519,
+                        "line": {
+                            "translit": "avtozavodskaya",
+                            "city_id": 1002,
+                            "id": 63,
+                            "name": "metroline.63",
+                            "color": "#BF0808"
+                        },
+                        "lng": 27.495499,
+                        "name": "metro.419"
+                    }
+                ]
+            },
+            "city": "Минск",
+            "street": "улица Тимирязева",
+            "building": "72",
+            "display_name": "Минск, улица Тимирязева, 72",
+            "map_data": "{\"points\":{\"center\":{\"lat\":53.92470199998564,\"lng\":27.511605999999983,\"zoom\":19},\"marker\":{\"lat\":53.924702,\"lng\":27.511606}}}",
+            "marker": {
+                "lat": 53.924702,
+                "lng": 27.511606
+            },
+            "manager": {
+                "id": 867185
+            }
+        },
+        "metallic": "standard_plus",
+        "creation_site": "rabota.by",
+        "creation_site_id": 17,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1644143376,
+            "$": "2022-02-06T13:29:36.954+03:00"
+        },
+        "creation_time": "2022-01-12T13:17:59.010+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 108263416,
+            "manager_id": 7435612,
+            "user_id": 86079286,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": false,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/50987507",
+            "mobile": "https://m.hh.ru/vacancy/50987507"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Опыт работы с Rust приветствуется. Опыт работы с С приветствуется. Желателен опыт работы с STD, no_std. Знание и применение принципов...",
+            "resp": "Разработка проектов на Rust. Участие в проектировании архитектуры приложений. Написание тестов. Поддержка реализованных проектов. Ведение проектной технической документации.",
+            "cond": "Гибкий график работы. Достойный уровень заработной платы. Интересные проекты и возможность внедрить/реализовать собственные идеи. Компенсацию спортивных активностей. Медицинскую страховку. ",
+            "skill": "C",
+            "desc": null
+        },
+        "id": 50987507,
+        "url": "https://hh.ru/vacancy/50987507",
+        "salary": null,
+        "contacts": {
+            "email": "a.barkhanova@pixelplex.io",
+            "fio": "Барханова Анна",
+            "phones": {}
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 4,
+            "state": "APPROVED",
+            "id": 764149,
+            "name": "ПикселПлекс",
+            "visible_name": "ПикселПлекс",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/2150398.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/2150398.png"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/2150397.png"
+                    },
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/427082.png"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/2150399.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/2150399.png"
+                    }
+                ]
+            }
+        },
+        "published_at": "2022-02-05T13:17:59.010+03:00",
+        "schedule": {
+            "id": "FULL_DAY"
+        },
+        "counters": {
+            "responses": 32
+        },
+        "key_skills": [
+            "rust",
+            "C++",
+            "Go",
+            "Blockchain"
+        ],
+        "description": " **PixelPlex** – ведущая продуктово-аутсорсинговая компания по **Blockchain**разработке, основанная в 2007 году. С 2013 года 90% наших проектов основаны наданной технологии. Также мы активно работаем в области AI, AR/VR, IoT, Mobile.Клиентские проекты реализуются как для всемирно-известных мировых брендов, таки для небольших, перспективных стартапов.Сейчас мы базируемся в Минске (головной офис), Сеуле, Токио, Лондоне, НьюЙорке, Пфеффиконе.Отделы разработки: **** Web, Mobile и Blockchain. А также QA, BA, PM, UI/UXDepartments.Мы расширяем Blockchain отдел и готовы рассмотреть **Rust Developer.****Обязанности:**  * Разработка проектов на Rust;  * Участие в проектировании архитектуры приложений;  * Написание тестов;  * Поддержка реализованных проектов;  * Ведение проектной технической документации.**Требования:**  * Опыт работы с Rust приветствуется;  * Опыт работы с С++ приветствуется;  * Желателен опыт работы с STD, no_std;  * Знание и применение принципов SOLID и приемов TDD;  * Работа c ОС Linux;  * Понимание зачем нужен Docker;  * Умение писать простой и понятный код;  * Знание принципов и шаблонов проектирования.**Будет плюсом:**  * Опыт работы c Go;  * Опыт работы с p2p сетями;  * Опыт написания скриптов на Bash;  * Опыт работы с Blockchain;  * Общие знания криптографии.**Мы предлагаем:**  * Гибкий график работы;  * Достойный уровень заработной платы;  * Интересные проекты и возможность внедрить/реализовать собственные идеи;  * Компенсацию спортивных активностей;  * Медицинскую страховку;  * Курсы английского языка в офисе, а также Speaking club;  * Насыщенную корпоративную жизнь (поздравление с днем рождения от компании, празднование профессиональных праздников, турниры по хоккею и т.д.);  * Фрукты, печеньки, чай, кофе;  * х-box, любые VR-шлемы и прочие приятные корпоративные плюшки."
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": false,
+        "name": "Junior frontend-разработчик",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 3,
+            "name": "Екатеринбург",
+            "path": ".113.223.1261.3."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 310266,
+            "disabled": false,
+            "raw_address": "",
+            "metro_stations": {
+                "lat": 56.837982,
+                "lng": 60.59734,
+                "metro": [
+                    {
+                        "is_alias": false,
+                        "city_id": 3,
+                        "order": 5,
+                        "translit": "ploschad_1905_goda",
+                        "id": 266,
+                        "lat": 56.837982,
+                        "line": {
+                            "translit": "sever_yug",
+                            "city_id": 3,
+                            "id": 48,
+                            "name": "metroline.48",
+                            "color": "#0A6F20"
+                        },
+                        "lng": 60.59734,
+                        "name": "metro.266"
+                    }
+                ]
+            },
+            "city": "Екатеринбург",
+            "street": "улица Малышева",
+            "building": "51",
+            "display_name": "Екатеринбург, улица Малышева, 51",
+            "map_data": "{\"points\":{\"center\":{\"lat\":56.83704151183046,\"lng\":60.60595899999992,\"zoom\":15},\"marker\":{\"lat\":56.836101,\"lng\":60.614578}}}",
+            "marker": {
+                "lat": 56.836101,
+                "lng": 60.614578
+            },
+            "manager": {
+                "id": 1663238
+            }
+        },
+        "metallic": "standard",
+        "creation_site": "ekaterinburg.hh.ru",
+        "creation_site_id": 9,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1643869477,
+            "$": "2022-02-03T09:24:37.520+03:00"
+        },
+        "creation_time": "2021-12-09T13:43:29.574+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 80926579,
+            "manager_id": 5179136,
+            "user_id": 58796739,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/50334088",
+            "mobile": "https://m.hh.ru/vacancy/50334088"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "JavaScript. React для web. Внезапно RUST. CI / Feature Flags. Умение программировать на JavaScript. Слышал слово React. Знание HTML и CSS. ",
+            "resp": "ReactNative для разработки мобильных приложений. ElectronJS, если предстоит работать с desktop’ом. Документирование API (Swagger, GraphQL). Шикуем с Google Cloud...",
+            "cond": "Научим всему, что знаем сами, обеспечим полную занятость, много интересных задач, профессиональную команду. Официальное трудоустройство. Офис в центре города — БЦ...",
+            "skill": null,
+            "desc": null
+        },
+        "id": 50334088,
+        "url": "https://hh.ru/vacancy/50334088",
+        "salary": null,
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 4515,
+            "name": "JetStyle",
+            "visible_name": "JetStyle",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/759913.png"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/3480608.png"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/3480609.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/3480609.png"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/3480610.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/3480610.png"
+                    }
+                ]
+            }
+        },
+        "published_at": "2022-02-03T09:24:37.484+03:00",
+        "schedule": {
+            "id": "FULL_DAY"
+        },
+        "counters": {
+            "responses": 26
+        },
+        "key_skills": null,
+        "description": "Ищем в свою команду начинающего frontend-разработчика.**Что ждет такого человека у нас?**Работа в команде разработки JetStyle — да, нам важно, чтобы вы хотели работатьв команде и включились в общую работу.Вместе с нами вам предстоит работать над разработкой интерфейсов для нашихклиентов. У нас нет вёрстки однотипных лендингов на конвейере, у нас естьзадачи по созданию удобных, предсказуемых, доступных и понятных пользователюинтерфейсов. Мы учим новеньких всему, что знаем сами (и да, еще раз, нам самимэто важно).**Что сами знаем и умеем:**  1. JavaScript  2. React для web  3. ReactNative для разработки мобильных приложений  4. ElectronJS, если предстоит работать с desktop’ом  5. NodeJS для server-side  6. Документирование API (Swagger, GraphQL)  7. K8S  8. Внезапно RUST  9. Шикуем с Google Cloud Platform  10. CI / Feature Flags**Мы ждём от junior-фронтендера:**  1. Умение программировать на JavaScript  2. Слышал слово React  3. Знание HTML и CSS  4. Любовь к пользователям и удобным интерфейсам  5. Слышал слово git**Плюсами будут:**  1. Опыт работы с React  2. Желание писать не только фронтенд и не только на яваскрипте  3. Запускал комманду git больше одного раза**Взамен** :  1. научим всему, что знаем сами, обеспечим полную занятость, много интересных задач, профессиональную команду;  2. официальное трудоустройство;  3. офис в центре города — БЦ Высоцкий и отличный вид с 29 этажа."
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": false,
+        "name": "Junior Full Stack Developer (PL/pgSQL, Go, C)",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 2,
+            "name": "Санкт-Петербург",
+            "path": ".113.231.2."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 226742,
+            "disabled": false,
+            "raw_address": "",
+            "metro_stations": {
+                "lat": 59.920811,
+                "lng": 30.355055,
+                "metro": [
+                    {
+                        "is_alias": false,
+                        "city_id": 2,
+                        "order": 2,
+                        "translit": "ligovskiy_prospekt",
+                        "id": 239,
+                        "lat": 59.920811,
+                        "line": {
+                            "translit": "pravoberezhnaya",
+                            "city_id": 2,
+                            "id": 17,
+                            "name": "metroline.17",
+                            "color": "#EA7125"
+                        },
+                        "lng": 30.355055,
+                        "name": "metro.239"
+                    }
+                ]
+            },
+            "city": "Санкт-Петербург",
+            "street": "улица Константина Заслонова",
+            "building": "7",
+            "display_name": "Санкт-Петербург, улица Константина Заслонова, 7",
+            "map_data": "{\"points\":{\"center\":{\"lat\":59.92038800849879,\"lng\":30.35097397863867,\"zoom\":16},\"marker\":{\"lat\":59.920388,\"lng\":30.350974}},\"manualMetro\":false}",
+            "marker": {
+                "lat": 59.920388,
+                "lng": 30.350974
+            },
+            "manager": {
+                "id": 997454
+            }
+        },
+        "metallic": "standard_plus",
+        "creation_site": "spb.hh.ru",
+        "creation_site_id": 7,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1644248272,
+            "$": "2022-02-07T18:37:52.568+03:00"
+        },
+        "creation_time": "2022-01-26T17:48:05.700+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 102633480,
+            "manager_id": 6842554,
+            "user_id": 80468794,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/51805604",
+            "mobile": "https://m.hh.ru/vacancy/51805604"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Решения \"нерешаемых\" проблем в условиях технических ограничений. Знание Clojure, Rust, Nim будет плюсом. Опыт работы с BigData (Hadoop, Kafka) будет...",
+            "resp": "Написание логики application server на PL/pgSQL. Поддержка и развитие PostgreSQL extensions на С (open sourced). Поддержка и развитие Luxms...",
+            "cond": "Работа в офисе. Полная занятость. Конкурентоспособная белая заработная плата (обсуждается индивидуально). Официальное оформление, соблюдение норм Трудового Кодекса РФ. ДМС.",
+            "skill": "PostgreSQL, ООП, SQL, Big Data, C/C",
+            "desc": null
+        },
+        "id": 51805604,
+        "url": "https://hh.ru/vacancy/51805604",
+        "salary": null,
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 728261,
+            "name": "ЯСП",
+            "visible_name": "ЯСП",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/661221.png"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/3086017.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/3086017.png"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/3086015.png"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/3086016.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/3086016.png"
+                    }
+                ]
+            },
+            "employer_organization_form_id": 0
+        },
+        "published_at": "2022-02-07T17:48:05.700+03:00",
+        "schedule": {
+            "id": "FULL_DAY"
+        },
+        "counters": {
+            "responses": 5
+        },
+        "key_skills": [
+            "PostgreSQL",
+            "ООП",
+            "SQL",
+            "Opensource",
+            "Big Data",
+            "C/C++"
+        ],
+        "description": "**ООО \"ЯСП**\" – центр внедрения Группы компаний Luxms. Мы ищем Junior FullStack разработчика для развития функционала Luxms BI (Luxmsbi.com), а такжеподдержки и развития решений, развернутых на Luxms BI.Платформа Luxms BI реализована на передовом технологическом стеке (Front-End –кросс браузерный JavaScript/CSS с адаптивной версткой, Back-end – под Linux:nginx, PostgreSQL/Greenplum, JVM), обеспечивает массивно-параллельнуюобработку (MPP) потоков данных высокой интенсивности. Применяются технологииin-memory для высокоскоростной обработки и хранения данных. MPP BI – первое вмире решение, способное развертываться на множестве узлов, в режимеотказоустойчивого кластера с балансировкой нагрузки и горячим резервированием,обеспечивать прогнозную и текстовую аналитику, а также подготовку данных квизуализации.**Обязанности:**  * Написание логики application server на PL/pgSQL;  * Поддержка и развитие PostgreSQL extensions на С (open sourced);  * Поддержка и развитие Luxms BI Gateway (Golang).**Требования:**  * Знание деталей стандарта HTTP;  * Знание и опыт PostgreSQL (PL/pgSQL);  * Хорошее понимание парадигм программирования: функциональное, ООП,  процедурное;  * Опыт написания кода на 3-х основных языках, например участие в  OpenSource проектах;  * Широкий кругозор в IT, желание исследовать новое, искать эффективные  решения \"нерешаемых\" проблем в условиях технических ограничений;  * Знание Clojure, Rust, Nim будет плюсом;  * Опыт работы с BigData (Hadoop, Kafka) будет плюсом;  * Опыт работы с SQL/NewSQL/NoSQL будет плюсом.**Условия:**  * Работа в офисе;  * Полная занятость;  * Конкурентоспособная белая заработная плата (обсуждается индивидуально);  * Официальное оформление, соблюдение норм Трудового Кодекса РФ;  * ДМС."
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": false,
+        "name": "Junior NodeJS разработчик",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 3,
+            "name": "Екатеринбург",
+            "path": ".113.223.1261.3."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 310266,
+            "disabled": false,
+            "raw_address": "",
+            "metro_stations": {
+                "lat": 56.837982,
+                "lng": 60.59734,
+                "metro": [
+                    {
+                        "is_alias": false,
+                        "city_id": 3,
+                        "order": 5,
+                        "translit": "ploschad_1905_goda",
+                        "id": 266,
+                        "lat": 56.837982,
+                        "line": {
+                            "translit": "sever_yug",
+                            "city_id": 3,
+                            "id": 48,
+                            "name": "metroline.48",
+                            "color": "#0A6F20"
+                        },
+                        "lng": 60.59734,
+                        "name": "metro.266"
+                    }
+                ]
+            },
+            "city": "Екатеринбург",
+            "street": "улица Малышева",
+            "building": "51",
+            "display_name": "Екатеринбург, улица Малышева, 51",
+            "map_data": "{\"points\":{\"center\":{\"lat\":56.83704151183046,\"lng\":60.60595899999992,\"zoom\":15},\"marker\":{\"lat\":56.836101,\"lng\":60.614578}}}",
+            "marker": {
+                "lat": 56.836101,
+                "lng": 60.614578
+            },
+            "manager": {
+                "id": 1663238
+            }
+        },
+        "metallic": "standard",
+        "creation_site": "ekaterinburg.hh.ru",
+        "creation_site_id": 9,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1643869477,
+            "$": "2022-02-03T09:24:37.606+03:00"
+        },
+        "creation_time": "2021-09-03T11:01:23.073+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 80926579,
+            "manager_id": 5179136,
+            "user_id": 58796739,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/47621838",
+            "mobile": "https://m.hh.ru/vacancy/47621838"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Умение работать с git. Плюсами будет. Умение писать SQL запросы. Второй язык программирования: python / golang / rust. Английский язык.",
+            "resp": "Разработка прототипа продукта или MVP по видению клиента. Запуск экспериментальных продуктов параллельно с основным работающим. Разработка отдельных веб-сервисов. ",
+            "cond": "Обеспечим полную занятость, много интересных задач, профессиональную команду. Уровень заработной платы (которая точно в срок и 2 раза в месяц...",
+            "skill": null,
+            "desc": null
+        },
+        "id": 47621838,
+        "url": "https://hh.ru/vacancy/47621838",
+        "salary": {
+            "to": 50000,
+            "gross": false,
+            "currency": "RUR"
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 4515,
+            "name": "JetStyle",
+            "visible_name": "JetStyle",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/759913.png"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/3480608.png"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/3480609.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/3480609.png"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/3480610.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/3480610.png"
+                    }
+                ]
+            }
+        },
+        "published_at": "2022-02-03T09:24:37.582+03:00",
+        "schedule": {
+            "id": "FULL_DAY"
+        },
+        "counters": {
+            "responses": 1
+        },
+        "key_skills": null,
+        "description": "**Что ждёт такого человека у нас?**Мы занимаемся продуктовой разработкой для среднего и малого бизнеса. Мыработаем с клиентами из России, Европы и Средней Азии.  Примеры задач, которые мы решаем для наших клиентов:  1. Разработка прототипа продукта или MVP по видению клиента  2. Запуск экспериментальных продуктов параллельно с основным работающим  3. Разработка отдельных веб-сервисов  4. Миграция монолитного веб-приложения на микросервисы**Что для нас важно?**Мы стараемся в своей работе принести измеримую пользу клиенту. Нам нравитсявидеть результаты своего труда в метриках бизнеса. Мы верим, что технология неопределяет инженера и задача инженера выбирать подходящие технологии длярешения задач. Поэтому мы не завязаны на конкретном техническом стэке и готовыпредлагать клиенту разработку на разных технологиях, работаем с разнымиоблачными провайдерами и т.п.  Один из основных проектов — издательская платформа Ridero, в которой впродакшне запущено несколько десятков микросервисов в двух кластерах.**Что мы ждём от кандидата**  1. Базовое умение в NodeJS  2. Понимание базовых паттернов JS-разработки     1. async / await    2. Promise    3. yield  3. Умение написать unit-тест или integration-тест  4. Умение работать с git  **Плюсами будет**  1. Умение писать SQL запросы  2. Второй язык программирования: python / golang / rust  3. Английский язык**Условия:**  1. обеспечим полную занятость, много интересных задач, профессиональную команду;  2. уровень заработной платы (которая точно в срок и 2 раза в месяц, как положено) обсуждается по результатам собеседования;  3. официальное трудоустройство;  4. офис в центре города — БЦ Высоцкий и отличный вид с 29 этажа (как только мы окончательно вернемся в офис, пока гибридный режим);  5. внутреннее обучение."
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": false,
+        "name": "Разработчик FPGA (ПЛИС) Junior",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 2,
+            "name": "Санкт-Петербург",
+            "path": ".113.231.2."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 136763,
+            "disabled": false,
+            "metro_stations": {
+                "lat": 60.016697,
+                "lng": 30.315607,
+                "metro": [
+                    {
+                        "is_alias": false,
+                        "city_id": 2,
+                        "order": 4,
+                        "translit": "pionerskaya",
+                        "id": 213,
+                        "lat": 60.002487,
+                        "line": {
+                            "translit": "moskovsko_petrogradskaya",
+                            "city_id": 2,
+                            "id": 15,
+                            "name": "metroline.15",
+                            "color": "#0078C9"
+                        },
+                        "lng": 30.296759,
+                        "name": "metro.213"
+                    },
+                    {
+                        "is_alias": false,
+                        "city_id": 2,
+                        "order": 3,
+                        "translit": "udelnaya",
+                        "id": 212,
+                        "lat": 60.016697,
+                        "line": {
+                            "translit": "moskovsko_petrogradskaya",
+                            "city_id": 2,
+                            "id": 15,
+                            "name": "metroline.15",
+                            "color": "#0078C9"
+                        },
+                        "lng": 30.315607,
+                        "name": "metro.212"
+                    }
+                ]
+            },
+            "city": "Санкт-Петербург",
+            "street": "Коломяжский пр.",
+            "building": "27",
+            "display_name": "Санкт-Петербург, Коломяжский пр., 27",
+            "map_data": "{\"points\":{\"center\":{\"lat\":60.00959276584586,\"lng\":30.3055378306884,\"zoom\":14},\"marker\":{\"lat\":60.01367321194338,\"lng\":30.295468661376823}}}",
+            "marker": {
+                "lat": 60.01367321194338,
+                "lng": 30.295468661376823
+            },
+            "manager": {
+                "id": 3966565
+            }
+        },
+        "metallic": "standard",
+        "creation_site": "spb.hh.ru",
+        "creation_site_id": 7,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1644063258,
+            "$": "2022-02-05T15:14:18.070+03:00"
+        },
+        "creation_time": "2022-02-02T13:10:17.096+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 63336541,
+            "manager_id": 3966600,
+            "user_id": 41244178,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/52032349",
+            "mobile": "https://m.hh.ru/vacancy/52032349"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Опыт работы с интерфейсами семейств Avalon и/или AXI. Опыт программирования на C/C/Rust. Опыт программирования под Linux. ",
+            "resp": "Проектирование архитектуры модулей, IP-ядер и FPGA-проектов. Разработка, верификация и сопровождение проектов и IP-ядер. Отладка прошивок под FPGA...",
+            "cond": "Интересные новые проекты и дружная атмосфера бесстрашных разработчиков. Чай, кофе, плюшки, книжки за счёт компании. Заработная плата по результатам собеседования. ",
+            "skill": "Networking",
+            "desc": null
+        },
+        "id": 52032349,
+        "url": "https://hh.ru/vacancy/52032349",
+        "salary": {
+            "from": 90000,
+            "to": 120000,
+            "gross": false,
+            "currency": "RUR"
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 594450,
+            "name": "НТЦ Метротек",
+            "visible_name": "НТЦ Метротек",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/2396802.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/2396802.png"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/2396801.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/2396801.png"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/2396800.png"
+                    },
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/488762.png"
+                    }
+                ]
+            }
+        },
+        "published_at": "2022-02-02T13:10:17.096+03:00",
+        "schedule": {
+            "id": "FLEXIBLE"
+        },
+        "counters": {
+            "responses": 13
+        },
+        "key_skills": [
+            "FPGA",
+            "ПЛИС",
+            "Networking"
+        ],
+        "description": "**Неформальное описание**В разных компаниях используется разный подход к разработке.  Некоторые навыки, качества, опыт, типы мышления становятся более важными,другие -- менее.    Нельзя однозначно утверждать, какой подход хороший, а какой -- плохой.  В каждом будут плюсы и минусы.    Легко работать, когда ценности и приоритеты сотрудников и компании совпадают.  Мы любим прозрачность, поэтому в двух словах опишем наш подход.  1. **У нас очень развито наставничество (менторство).**  Мы постоянно проводим внутренние лекции.  Всегда можно (нужно!) попросить помощи или совета, если что-то непонятно.  При выполнении задач никого не оставят одного надолго.  Мы часто применяем парное программирование.     _Плюсы_ **** \\-- Вы будет прогрессировать быстрее.   _Минусы_ **** \\-- придётся общаться с людьми. Отсидеться в углу не получится.  2. **Мы стараемся быть инженерами, а не кодерами.**  И ждём того же от других.    FPGA-разработчики, кроме написания RTL и TB:  \\- Выполняют review аппаратной платформы на ранней стадии разработки  \\- Участвуют в проектировании архитектуры системы  \\- Вместе с коллегами \"аппаратчиками\" и системными программистами участвуют вподнятии и проверке \"железа\".  \\- Проектируют алгоритмы тестирования телекоммуникационных сетей.    Естественно, мы не будем взваливать на Junior-разработчика все вышеуказанныезадачи.  Но с ростом опыта постепенно растёт и участие в разработке проекта.     _Плюсы_ \\-- Ваш технический кругозор станет гораздо шире.   _Минусы_ **** \\-- это сложнее, чем просто писать код.  3. **Мы -- компания, которая разрабатывает коммерческий продукт.**  Соответственно, разработка -- это tradeoff между скоростью и идеальностьюрезультата.    Продуктов/проектов у нас много, а срок поддержки большой, поэтому мы следим  за качеством -- пишем требования, спецификации, проектируем архитектурусистемы,  поддерживаем проектную документацию в актуальном виде, проводим code review ит.д.  Иначе через пару лет никто не вспомнит, как устроен проект.    Но во многих проектах у нас жёсткие сроки.  Поэтому перфекционизм в виде переписывания кода до \"идеального блеска\" нам неблизок.  Как говорится, \"Done is Better than Perfect\".    У нас нет периодов без проектов, когда разработчики мучаются от безделья.  Аналогично, авралов и переработок мы тоже избегаем.    Ну и конечно, Agile нам много ближе, чем Waterfall :)     _Плюсы_ **** \\-- Вы будете получать результат.   _Минусы_ **** \\-- для получения результата придётся прикладывать усилия.Если Вам близки описанные подходы и ценности, мы с радостью примем Вас вкоманду!     **P.S.** **** Не пугайтесь пунктам \" **Будет преимуществом: \" **изформального описания ниже.  Это опциональные вещи.     **Формальное описание****Обязанности:**  * Проектирование архитектуры модулей, IP-ядер и FPGA-проектов  * Разработка, верификация и сопровождение проектов и IP-ядер  * Отладка прошивок под FPGA фирм Intel (Altera), Xilinx, Lattice  * Исправление ошибок, поддержка существующих продуктов**Обязательные требования:**  * Знание языков Verilog/SystemVerilog  * Навыки верификации и отладки FPGA-проектов  * Знание Linux на уровне пользователя**Будет преимуществом:**  * Опыт работы с интерфейсами семейств Avalon и/или AXI  * Опыт программирования на C/C++/Rust  * Опыт программирования под Linux  * Знание скриптовых языков - Python/Tcl/Bash  * Знание систем контроля версий - git**Условия:**  * Интересные новые проекты и дружная атмосфера бесстрашных разработчиков  * Чай, кофе, плюшки, книжки за счёт компании  * Заработная плата по результатам собеседования  * Иногородним помогаем с переездом"
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": false,
+        "name": "Junior Rust developer",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 1,
+            "name": "Москва",
+            "path": ".113.232.1."
+        },
+        "accept_temporary": false,
+        "metallic": "standard",
+        "creation_site": "hh.ru",
+        "creation_site_id": 1,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1642101068,
+            "$": "2022-01-13T22:11:08.065+03:00"
+        },
+        "creation_time": "2022-01-13T22:11:08.049+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 102095101,
+            "manager_id": 6779490,
+            "user_id": 79932563,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": false,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/51062805",
+            "mobile": "https://m.hh.ru/vacancy/51062805"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Требуемые навыки: Базовое владение языком rust или владение любым другим языком программирования и большое желание освоить rust. Уверенное владение ОС...",
+            "resp": "Предстоящие задачи: Реализация распределенного объектного хранилища для предоставления масштабируемого хранилища объектов под различные задачи. Максимальный размер объекта - 2 Mb. ",
+            "cond": "Возможность запускаться как в Kubernetes, так и на \"голом железе\". Мы предлагаем: Возможность гибкого начала рабочего дня, полностью удаленная занятость. ",
+            "skill": "Linux, ООП, Разработка нового продукта",
+            "desc": null
+        },
+        "id": 51062805,
+        "url": "https://hh.ru/vacancy/51062805",
+        "salary": null,
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "structure_name": "87021",
+            "state": "APPROVED",
+            "id": 87021,
+            "name": "WILDBERRIES",
+            "visible_name": "WILDBERRIES",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/678792.jpeg"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/3156301.jpeg"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/3156301.jpeg"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/3156300.jpeg"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/3156300.jpeg"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/3156299.jpeg"
+                    }
+                ]
+            },
+            "main_employer_id": 87021
+        },
+        "published_at": "2022-01-13T22:11:08.049+03:00",
+        "schedule": {
+            "id": "REMOTE"
+        },
+        "counters": {
+            "responses": 107
+        },
+        "key_skills": [
+            "Linux",
+            "ООП",
+            "Rust",
+            "Разработка нового продукта"
+        ],
+        "description": "В связи с активным ростом команды находимся в поиске **_Junior Rustdeveloper_**.    Мы сами выбираем стек технологий, который лучше подходит к нашим проектам иусловиям. Разработка ведется с нуля, отсутствует многолетний legacy код.**Требуемые навыки:**  * Базовое владение языком rust или владение любым другим языком программирования и большое желание освоить rust;  * Уверенное владение ОС Linux;**Предстоящие задачи:**Реализация распределенного объектного хранилища для предоставлениямасштабируемого хранилища объектов под различные задачи.Цель: предоставить масштабируемое хранилище объектов для различных задач.Есть множество данных, которые требуется хранить и отдавать пользователю,например статические изображения товаров от поставщиков и пользователей.По некоторым причинам нас не устраивают готовые решения, поэтому возникланеобходимость разработать свое. Ключевые требования к системе:  * Справляться с нагрузками в 500 000 RPS на чтение.  * Для начала 1 000 000 000 объектов.  * Максимальный размер объекта - 2 Mb.  * Обеспечить консистентность данных на запись.  * Простое горизонтальное масштабирование.  * Максимальная простота системы и минимум зависимостей.  * Возможность запускаться как в Kubernetes, так и на \"голом железе\".**Мы предлагаем:**  * Возможность гибкого начала рабочего дня, полностью удаленная занятость.  * Возможность оформления по ТК РФ или по договору с ГПХ, с самозанятым или ИП.  * Достойное вознаграждение: «в рынке» и даже чуть интереснее.  * Преимущественно новые проекты без поддержки старого ĸода.  * Интересные и амбициозные задачи, дающие ощущение причастности к значимому делу, которым можно гордиться.  * Возможность непосредственно влиять на создание и развитие продукта.  * Действительно отличную команду, с которой можно обсудить идеи и осуществить наиболее удачные из них.  * Возможность сильно прокачаться в процессе реализации смелых идей, идущих на пользу проектам: большое поле возможностей и экспериментов."
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": false,
+        "name": "Junior Backend Engineer",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 1,
+            "name": "Москва",
+            "path": ".113.232.1."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 6136653,
+            "disabled": false,
+            "metro_stations": {
+                "lat": 55.70961,
+                "lng": 37.622569,
+                "metro": [
+                    {
+                        "is_alias": false,
+                        "city_id": 1,
+                        "order": 14,
+                        "translit": "tulskaya",
+                        "id": 142,
+                        "lat": 55.70961,
+                        "line": {
+                            "translit": "serpukhovsko_timiryazevskaya",
+                            "city_id": 1,
+                            "id": 9,
+                            "name": "metroline.9",
+                            "color": "#ADACAC"
+                        },
+                        "lng": 37.622569,
+                        "name": "metro.142"
+                    }
+                ]
+            },
+            "city": "Москва",
+            "street": "Большая Тульская улица",
+            "building": "11",
+            "display_name": "Москва, Большая Тульская улица, 11",
+            "map_data": "{\"points\":{\"center\":{\"lat\":55.709818500533785,\"lng\":37.62320599999998,\"zoom\":18},\"marker\":{\"lat\":55.710027,\"lng\":37.623843}}}",
+            "marker": {
+                "lat": 55.710027,
+                "lng": 37.623843
+            },
+            "manager": {
+                "id": 6581781
+            }
+        },
+        "metallic": "standard",
+        "creation_site": "hh.ru",
+        "creation_site_id": 1,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1643899785,
+            "$": "2022-02-03T17:49:45.272+03:00"
+        },
+        "creation_time": "2022-02-03T13:46:27.776+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 100236901,
+            "manager_id": 6581781,
+            "user_id": 78080183,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": false,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/52073853",
+            "mobile": "https://m.hh.ru/vacancy/52073853"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Deep knowledge in one of the following languages: C/C, Java, .Net, Rust. — Rust development experience is an advantage. — ",
+            "resp": "...blockchain (Rust). — Development of the integration testing framework on Rust. — Development of additional services (including high-load ones) using Rust...",
+            "cond": null,
+            "skill": "NET Framework, C#",
+            "desc": null
+        },
+        "id": 52073853,
+        "url": "https://hh.ru/vacancy/52073853",
+        "salary": null,
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 5195695,
+            "name": "Equilibrium Labs",
+            "visible_name": "Equilibrium Labs",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/3729670.png"
+                    },
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/822196.png"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/3729672.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/3729672.png"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/3729671.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/3729671.png"
+                    }
+                ]
+            }
+        },
+        "published_at": "2022-02-03T13:46:27.776+03:00",
+        "schedule": {
+            "id": "FULL_DAY"
+        },
+        "counters": {
+            "responses": 5
+        },
+        "key_skills": [
+            ".NET Framework",
+            "C#",
+            "Blockchain"
+        ],
+        "description": "**Equilibrium Lab** is developing a cutting-edge decentralized financeplatform on the basis of Polkadot/Substrate technology, a brainchild of GavinWood (former CTO of Ethereum). We are building our own financial parachain asan integral part of the Polkadot ecosystem.    The project is recognized in the professional society while its core businesslogic is currently production-ready. The team is a member of the SubstrateBuilders Program by Parity Technologies and a recipient of multiple grantsfrom the Web3 Foundation.    We strongly believe that the future of the Internet lies in decentralizationand permissionless applications running on top. We very much appreciate newcool ideas and expect them from candidates.    Currently, we are expanding our dev team and looking for great professionalsto join our amazing journey.**We expect candidates to have the following skills:**  — Professional development experience for 1 year  — Deep knowledge in one of the following languages: C/C++, Java, .Net, Rust  — Rust development experience is an advantage  — Experience in developing applications launched into production  — Experience in unit and integration testing  — Experience in developing financial software  — Deep knowledge and understanding of design patterns  — Good technical English     **We consider the following skills as a strong advantage:**  — Experience in cryptography  — Knowledge in Ethereum/Substrate and other blockchain technologies  — Experience in high-load systems development  — Degree in Computer Science     **Duties:**  — Development of new functionality and support of the existing one on top ofthe Substrate-based blockchain (Rust)  — Development of the integration testing framework on Rust  — Development of additional services (including high-load ones) using Rust and.Net technologies"
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": false,
+        "name": "Системный программист Linux (Junior)",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 2,
+            "name": "Санкт-Петербург",
+            "path": ".113.231.2."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 136763,
+            "disabled": false,
+            "metro_stations": {
+                "lat": 60.016697,
+                "lng": 30.315607,
+                "metro": [
+                    {
+                        "is_alias": false,
+                        "city_id": 2,
+                        "order": 4,
+                        "translit": "pionerskaya",
+                        "id": 213,
+                        "lat": 60.002487,
+                        "line": {
+                            "translit": "moskovsko_petrogradskaya",
+                            "city_id": 2,
+                            "id": 15,
+                            "name": "metroline.15",
+                            "color": "#0078C9"
+                        },
+                        "lng": 30.296759,
+                        "name": "metro.213"
+                    },
+                    {
+                        "is_alias": false,
+                        "city_id": 2,
+                        "order": 3,
+                        "translit": "udelnaya",
+                        "id": 212,
+                        "lat": 60.016697,
+                        "line": {
+                            "translit": "moskovsko_petrogradskaya",
+                            "city_id": 2,
+                            "id": 15,
+                            "name": "metroline.15",
+                            "color": "#0078C9"
+                        },
+                        "lng": 30.315607,
+                        "name": "metro.212"
+                    }
+                ]
+            },
+            "city": "Санкт-Петербург",
+            "street": "Коломяжский пр.",
+            "building": "27",
+            "display_name": "Санкт-Петербург, Коломяжский пр., 27",
+            "map_data": "{\"points\":{\"center\":{\"lat\":60.00959276584586,\"lng\":30.3055378306884,\"zoom\":14},\"marker\":{\"lat\":60.01367321194338,\"lng\":30.295468661376823}}}",
+            "marker": {
+                "lat": 60.01367321194338,
+                "lng": 30.295468661376823
+            },
+            "manager": {
+                "id": 3966565
+            }
+        },
+        "metallic": "standard",
+        "creation_site": "spb.hh.ru",
+        "creation_site_id": 7,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1644063258,
+            "$": "2022-02-05T15:14:18.070+03:00"
+        },
+        "creation_time": "2022-02-02T13:11:05.861+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 63336541,
+            "manager_id": 3966600,
+            "user_id": 41244178,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": false,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/52032412",
+            "mobile": "https://m.hh.ru/vacancy/52032412"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Опыт разработки системных приложений под Linux. Опыт разработки драйверов. Опыт разработки на Rust. Знание скриптовых языков -- Python/Bash. ",
+            "resp": "Разработка драйверов, в том числе сетевых, для ядра Linux. Разработка системных приложений под Linux. Настройка и запуск ядра Linux на...",
+            "cond": "Интересные новые проекты и дружная атмосфера бесстрашных разработчиков. Чай, кофе, плюшки, книжки за счёт компании. Заработная плата по результатам собеседования. ",
+            "skill": "Разработка ПО, Linux, Networking, Python, Bash, Git",
+            "desc": null
+        },
+        "id": 52032412,
+        "url": "https://hh.ru/vacancy/52032412",
+        "salary": {
+            "from": 90000,
+            "to": 120000,
+            "gross": false,
+            "currency": "RUR"
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 1,
+            "state": "APPROVED",
+            "id": 594450,
+            "name": "НТЦ Метротек",
+            "visible_name": "НТЦ Метротек",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/2396802.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/2396802.png"
+                    },
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/2396801.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/2396801.png"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/2396800.png"
+                    },
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/488762.png"
+                    }
+                ]
+            }
+        },
+        "published_at": "2022-02-02T13:11:05.861+03:00",
+        "schedule": {
+            "id": "FLEXIBLE"
+        },
+        "counters": {
+            "responses": 13
+        },
+        "key_skills": [
+            "Разработка ПО",
+            "Linux",
+            "Linux Kernel",
+            "Device Drivers",
+            "Networking",
+            "Python",
+            "Bash",
+            "Git"
+        ],
+        "description": " **Неформальное описание**В разных компаниях используется разный подход к разработке.  Некоторые навыки, качества, опыт, типы мышления становятся более важными,другие -- менее.    Нельзя однозначно утверждать, какой подход хороший, а какой -- плохой.  В каждом будут плюсы и минусы.    Легко работать, когда ценности и приоритеты сотрудников и компании совпадают.  Мы любим прозрачность, поэтому в двух словах опишем наш подход.  1. **У нас очень развито наставничество (менторство).**  Мы постоянно проводим внутренние лекции.  Всегда можно (нужно!) попросить помощи или совета, если что-то непонятно.  При выполнении задач никого не оставят одного надолго.  Мы часто применяем парное программирование.     _Плюсы_ **** \\-- Вы будет прогрессировать быстрее.   _Минусы_ **** \\-- придётся общаться с людьми. Отсидеться в углу не получится.  2. **Мы стараемся быть инженерами, а не кодерами.**  И ждём того же от других.    Системные программисты, кроме написания драйверов/демонов/конфигурации ядра:  \\- Выполняют review аппаратной платформы на ранней стадии разработки  \\- Участвуют в проектировании архитектуры системы  \\- Вместе с коллегами \"аппаратчиками\" и FPGA-разработчиками участвуют вподнятии и проверке \"железа\".  \\- Проектируют алгоритмы тестирования телекоммуникационных сетей.    Естественно, мы не будем взваливать на Junior-разработчика все вышеуказанныезадачи.  Но с ростом опыта постепенно растёт и участие в разработке проекта.     _Плюсы_ \\-- Ваш технический кругозор станет гораздо шире.   _Минусы_ **** \\-- это сложнее, чем просто писать код.  3. **Мы -- компания, которая разрабатывает коммерческий продукт.**  Соответственно, разработка -- это tradeoff между скоростью и идеальностьюрезультата.    Продуктов/проектов у нас много, а срок поддержки большой, поэтому мы следим  за качеством -- пишем требования, спецификации, проектируем архитектурусистемы,  поддерживаем проектную документацию в актуальном виде, проводим code review ит.д.  Иначе через пару лет никто не вспомнит, как устроен проект.    Но во многих проектах у нас жёсткие сроки.  Поэтому перфекционизм в виде переписывания кода до \"идеального блеска\" нам неблизок.  Как говорится, \"Done is Better than Perfect\".    У нас нет периодов без проектов, когда разработчики мучаются от безделья.  Аналогично, авралов и переработок мы тоже избегаем.    Ну и конечно, Agile нам много ближе, чем Waterfall :)     _Плюсы_ **** \\-- Вы будете получать результат.   _Минусы_ **** \\-- для получения результата придётся прикладывать усилия.Если Вам близки описанные подходы и ценности, мы с радостью примем Вас вкоманду!     **P.S.** **** Не пугайтесь пунктам \" **Будет преимуществом: \" **изформального описания ниже.  Это опциональные вещи.     **Формальное описание    Обязанности:**  * Разработка драйверов, в том числе сетевых, для ядра Linux  * Разработка системных приложений под Linux  * Настройка и запуск ядра Linux на аппаратных платформах x86 и ARM  * Исправление ошибок, поддержка существующих продуктов**Обязательные требования:**  * Хорошее знание языка С  * Опыт программирования под Linux**Будет преимуществом:**  * Опыт разработки системных приложений под Linux  * Опыт разработки драйверов  * Опыт разработки на Rust  * Знание скриптовых языков -- Python/Bash  * Вы знаете, что такое FPGA :)**Условия:**  * Интересные новые проекты и дружная атмосфера бесстрашных разработчиков  * Чай, кофе, плюшки, книжки за счёт компании  * Заработная плата по результатам собеседования  * Иногородним помогаем с переездом"
+    },
+    {
+        "response_letter_required": false,
+        "show_contact": true,
+        "name": "Junior С++ Developer",
+        "type": {
+            "id": "open"
+        },
+        "area": {
+            "id": 1002,
+            "name": "Минск",
+            "path": ".16.1002."
+        },
+        "accept_temporary": false,
+        "address": {
+            "id": 518221,
+            "disabled": false,
+            "metro_stations": {
+                "lat": 53.909519,
+                "lng": 27.495499,
+                "metro": [
+                    {
+                        "is_alias": false,
+                        "city_id": 1002,
+                        "order": 3,
+                        "translit": "pushkinskaya",
+                        "id": 419,
+                        "lat": 53.909519,
+                        "line": {
+                            "translit": "avtozavodskaya",
+                            "city_id": 1002,
+                            "id": 63,
+                            "name": "metroline.63",
+                            "color": "#BF0808"
+                        },
+                        "lng": 27.495499,
+                        "name": "metro.419"
+                    }
+                ]
+            },
+            "city": "Минск",
+            "street": "улица Тимирязева",
+            "building": "72",
+            "display_name": "Минск, улица Тимирязева, 72",
+            "map_data": "{\"points\":{\"center\":{\"lat\":53.92470199998564,\"lng\":27.511605999999983,\"zoom\":19},\"marker\":{\"lat\":53.924702,\"lng\":27.511606}}}",
+            "marker": {
+                "lat": 53.924702,
+                "lng": 27.511606
+            },
+            "manager": {
+                "id": 867185
+            }
+        },
+        "metallic": "standard",
+        "creation_site": "rabota.by",
+        "creation_site_id": 17,
+        "display_host": "hh.ru",
+        "last_change_time": {
+            "timestamp": 1643886258,
+            "$": "2022-02-03T14:04:18.815+03:00"
+        },
+        "creation_time": "2022-01-17T14:33:29.829+03:00",
+        "can_be_shared": true,
+        "employer_manager": {
+            "hhid": 101778550,
+            "manager_id": 6741755,
+            "user_id": 79617009,
+            "latest_activity": null
+        },
+        "inbox_possibility": true,
+        "chat_write_possibility": "ENABLED_AFTER_INVITATION",
+        "notify": true,
+        "links": {
+            "desktop": "https://hh.ru/vacancy/51203080",
+            "mobile": "https://m.hh.ru/vacancy/51203080"
+        },
+        "accept_incomplete_resumes": false,
+        "driver_license_types": [
+            {}
+        ],
+        "languages": [
+            {}
+        ],
+        "working_days": [
+            {}
+        ],
+        "working_time_intervals": [
+            {}
+        ],
+        "working_time_modes": [
+            {}
+        ],
+        "user_labels": [],
+        "snippet": {
+            "req": "Английский на уровне чтения технической документации. Опыт работы c Go и/или Rust. Опыт работы с командной строкой Linux. ",
+            "resp": "Разработка проектов на C: архитектура, алгоритмы, реализация. Написание UNIT-тестов. Сопровождение реализованных проектов. Ведение проектной технической документации. Работа в команде...",
+            "cond": "Гибкий график работы. Достойный уровень заработной платы. Интересные проекты и возможность внедрить/реализовать собственные идеи. Компенсацию спортивных активностей, корпоративный волейбол...",
+            "skill": "C, Linux, STL",
+            "desc": null
+        },
+        "id": 51203080,
+        "url": "https://hh.ru/vacancy/51203080",
+        "salary": null,
+        "contacts": {
+            "email": "p.leonovich@pixelplex.io",
+            "fio": "Полина",
+            "phones": {}
+        },
+        "employer": {
+            "show_similar_vacancies": true,
+            "trusted": true,
+            "category": "COMPANY",
+            "country_id": 4,
+            "state": "APPROVED",
+            "id": 764149,
+            "name": "ПикселПлекс",
+            "visible_name": "ПикселПлекс",
+            "logos": {
+                "logo": [
+                    {
+                        "type": "searchResultsPage",
+                        "url": "/employer-logo/2150398.png"
+                    },
+                    {
+                        "type": "small",
+                        "url": "/employer-logo/2150398.png"
+                    },
+                    {
+                        "type": "employerPage",
+                        "url": "/employer-logo/2150397.png"
+                    },
+                    {
+                        "type": "ORIGINAL",
+                        "url": "/employer-logo-original/427082.png"
+                    },
+                    {
+                        "type": "vacancyPage",
+                        "url": "/employer-logo/2150399.png"
+                    },
+                    {
+                        "type": "medium",
+                        "url": "/employer-logo/2150399.png"
+                    }
+                ]
+            }
+        },
+        "published_at": "2022-01-17T14:33:29.829+03:00",
+        "schedule": {
+            "id": "FULL_DAY"
+        },
+        "counters": {
+            "responses": 17
+        },
+        "key_skills": [
+            "C++",
+            "Linux",
+            "STL"
+        ],
+        "description": "**PixelPlex** – ведущая продуктово-аутсорсинговая компания по **Blockchain**разработке, основанная в 2007 году. С 2013 года 90% наших проектов основаны наданной технологии. Также мы активно работаем в области AI, AR/VR, IoT, Mobile.Клиентские проекты реализуются как для всемирно-известных мировых брендов, таки для небольших, перспективных стартапов.Сейчас мы базируемся в Минске (головной офис), Сеуле, Женеве и Нью-Йорке.**Отделы разработки:** Web, Mobile и Blockchain. А также QA, BA, PM, UI/UXDepartments.Мы расширяем Blockchain отдел и приглашаем в команду талантливыхразработчиков, которые начинают свой карьерный путь в С++ разработке.**Обязанности:**  * Разработка проектов на C++: архитектура, алгоритмы, реализация;  * Написание UNIT-тестов;  * Сопровождение реализованных проектов;  * Ведение проектной технической документации;  * Работа в команде 3-6 человек по выработанным методологиям (Scrum, Kanban, Waterfall).**Требования:**  * Знание стандартов C++ (11/14/17);  * Опыт работы с STL;  * Хорошее знание базовых принципов ООП;  * Знание принципов SOLID;  * Умение хорошо ориентироваться в большом объёме чужого кода;  * Английский на уровне чтения технической документации.**Будет плюсом:**  * Опыт работы c Go и/или Rust;  * Опыт работы с командной строкой Linux;  * Опыт работы с библиотекой Boost;  * Знание и применение приемов TDD;  * Опыт написания скриптов на Bash;  * Опыт работы с GCC, Clang, gdb;  * CMake / Autotools.**Мы предлагаем:**  * Гибкий график работы;  * Достойный уровень заработной платы;  * Интересные проекты и возможность внедрить/реализовать собственные идеи;  * Компенсацию спортивных активностей, корпоративный волейбол и футбол;  * Медицинскую страховку;  * Курсы английского языка в офисе, а также Speaking club;  * Насыщенную корпоративную жизнь (поздравление с днем рождения от компании, празднование профессиональных праздников, турниры по хоккею и т.д.);  * Фрукты, печеньки, чай, кофе;  * х-box, любые VR-шлемы и прочие приятные корпоративные плюшки.Будем рады видеть тебя в нашей команде!"
+    }
+]
