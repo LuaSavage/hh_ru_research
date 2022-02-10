@@ -3,7 +3,7 @@
 
 ## Input data
 В качестве входных данных используются сериализованные json объекты вакансий, расположенные в json/  
-Для их генерации был использован парсер: https://github.com/LuaSavage/hh_ru_parser  
+Для их генерации был использован парсер: [a link](https://github.com/LuaSavage/hh_ru_parser)
 Последующие ячейки кода преобразуют эти json объекты в pandas dataframe.  
 Dataframe'ы сохраняются в csv/ и могут быть использованы повторно  
 
